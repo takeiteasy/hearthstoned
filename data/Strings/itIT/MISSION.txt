@@ -1,0 +1,342 @@
+TAG	TEXT	COMMENT
+BOH_ANDUIN_06	Questo servitore ostacola la tua missione! Sconfiggi lui e i due nemici Leggendari vicini.	
+BOH_ANDUIN_08	Sconfiggi i servitori Leggendari di Sylvanas per vincere la battaglia!	
+BOH_FAELIN_06	Attacca i servitori dall'altra parte del tabellone per salvarli dall'affondamento!	
+BOH_FAELIN_06a	Sconfiggi servitori nemici in modo che il Capitano Maya possa aiutare a fuggire altri passeggeri e membri dell'equipaggio!	
+BOH_FAELIN_06b	Servitori rimasti da salvare	
+BOH_FAELIN_MISSION1_LOREBOOK_01	Giorno 601. Ancora nessun passeggero. Forse avrei dovuto costruire un sottomarino con costi di gestione inferiori... ma dove sarebbe il divertimento? Il Leviatano vale ogni moneta spesa. SICURAMENTE qualcuno dovrà visitare le profondità marine prima o poi, no? A parte me, ovviamente. Non sono diventata un'aggiustatutto per bazzicare in posti mediocri. 	
+BOH_FAELIN_MISSION1_LOREBOOK_02	Basato sui sommergibili tradizionali sviluppati durante la Seconda Guerra, il Leviatano possiede molte funzionalità uniche nel suo genere. Il suo nucleo di fusione potenziato si è dimostrato eccezionalmente stabile in ogni occasione, esclusi gli incendi, e il suo sistema centrale non è mai stato compromesso, se non si conta la Forzatura Spiralampo.	
+BOH_FAELIN_MISSION10a_LOREBOOK_01	Chiunque venga scoperto a sostenere i tentativi di resistenza da parte di Jarod Cantombroso, Malfurion Grantempesta e Tyrande Soffiabrezza o dei loro complici affronterà punizioni rapide e brutali, tra cui la prigionia o l'esecuzione immediata. Per ordine di sua maestà, la Luce delle Luci, Regina Azshara.	
+BOH_FAELIN_MISSION10a_LOREBOOK_02	Dopo che la resistenza trionfò sui demoni della Regina Azshara, cominciò la Separazione. Questo cataclisma distrusse il palazzo di Zin-Azshari, spedendo tutti i suoi abitanti sul fondo del mare. In qualche modo, restarono vivi... ma si trasformarono nei grotteschi Naga, il che permise loro di sopravvivere sott'acqua.	
+BOH_FAELIN_MISSION10a_LOREBOOK_02b	Dopo che la resistenza trionfò sui demoni della Regina Azshara, cominciò la Separazione. Questo cataclisma distrusse il palazzo di Zin-Azshari, spedendo tutti i suoi abitanti sul fondo del mare. In qualche modo, restarono vivi... ma si trasformarono nei grotteschi Naga, il che permise loro di sopravvivere sott'acqua.	
+BOH_FAELIN_MISSION10a_LOREBOOK_03	Caro Faelin, ho pensato che un messaggio scritto sarebbe stato il modo migliore per esprimere la mia gratitudine. So che non è stato facile sopportare la nostra piccola riunione di famiglia, ma il tuo intervento ha fatto la differenza. Confido che diventeremo subito amici, a prescindere da ciò che ci aspetta!	
+BOH_FAELIN_MISSION10a_LOREBOOK_04	Grace, spero che questo messaggio ti trovi bene. O che ti trovi, almeno, visto che l'ho gettato in mare... Volevo solo chiederti scusa di nuovo. Vorrei poter spiegare ulteriormente, ma permettimi di dirti che hai reso un prezioso servizio al regno di Roccavento. Se ci rivedremo, sarà da amici.	
+BOH_FAELIN_MISSION10b_LOREBOOK_01	Anche se molti tra i devoti di Elune sono dei possenti guerrieri, non esiste qualcosa di definitivo per mettere alla prova le loro abilità. La Gran Sacerdotessa mi ha dato il permesso di creare una prova che determinerà i limiti della loro forza fisica e spirituale. Forse, se la collocassimo a Zin-Azshari, otterremmo più reclute.	
+BOH_FAELIN_MISSION10b_LOREBOOK_02	Sono trascorsi molti anni da quando la Regina Azshara, o uno qualsiasi dei suoi araldi, ha ritenuto opportuno far visita al nostro tempio a Suramar. Penso che la Gran Sacerdotessa sospetti più di quanto non dica. L'ultimo dono ricevuto dal palazzo è stato un grosso cristallo che mi è stato concesso di usare nella mia prova. 	
+BOH_FAELIN_MISSION11_LOREBOOK_01	Siamo venuti a sapere che la gente di Suramar è irrequieta e desidera ricevere aggiornamenti dal palazzo. Vogliate cortesemente nominare un nuovo ambasciatore, qualcuno con gli agganci giusti ma piacevole, e mandatecelo immediatamente. Una volta placato, vi assicuro che il popolo sarà facile da gestire.	
+BOH_FAELIN_MISSION11_LOREBOOK_02	Faelin, volevo farti sapere che mi manchi già. Tuttavia, devi credermi se ti dico che Zin-Azshari non è più quella di un tempo. C'è qualcosa che non va e nessuno se ne rende conto. La tua sicurezza significa tutto per me, anche se questo comportasse separarci per qualche tempo. Speriamo non troppo a lungo.	
+BOH_FAELIN_MISSION12_LOREBOOK_01	A prescindere da quanti scherzi mi fai o da quante volte ci cacciamo nei guai...\nO quante volte mi dimentico del tuo compleanno o non rispondo alle tue lettere...\nNoi saremo sempre migliori amici. Amici per sempre!	
+BOH_FAELIN_MISSION12_LOREBOOK_02	La Casata Evenlar è un'antica famiglia che intrattiene rapporti stretti con la regina. Si dice che ci sia sempre un Evenlar tra le scorte reali della Regina Azshara, con nostro immenso orgoglio. Nell'altro ramo della famiglia abbiamo anche un parente nel Tempio di Elune di Suramar. È stata una sorpresa per tutti noi.	
+BOH_FAELIN_MISSION13_LOREBOOK_01	Gli ssstudiosi e le autorità potrebbero anche dire l'opposssto, ma io conosco la verità. C'è un'unica e sssola legge in tutta Zin-Azshari, ed è soddisssfare la regina. Ssse mai violassi quesssta legge, potresssti ritrovarti... qui.	
+BOH_FAELIN_MISSION13_LOREBOOK_02	Chissà ssse mi rilasceranno mai. La regina conosce i miei veri sssentimenti, ne sssono certo... ma la mia famiglia potrebbe ancora esssere dalla mia parte. Ssse mettesssero una buona parola per me, rissschierebbero tutto. Anche il mio amico deve avere un'ottima opinione di me, sssenza mai vedere la verità. Nel compiacere tutti, li ho sssolo traditi tutti.	
+BOH_FAELIN_MISSION15_LOREBOOK_01	Mia fedele ancella, ssso di potermi fidare di te per quell'insssignificante quessstione dei nuovi prigionieri della sssuperficie. Ritengo che abbiano agito da sssoli e non come alfieri di un'invasione organizzata. Giustiziali come preferisci o, ssse si dimostrasssero particolarmente vivaci, portali a me per puro svago.	
+BOH_FAELIN_MISSION15_LOREBOOK_02	Qui nelle profondità sssi annidano cose innaturali. Sssono connessse a un antico potere, qualcosa di demoniaco o arcano. Nesssun abitante della sssuperficie potrebbe capire i sssacrifici che abbiamo fatto per sssopravvivere... né il potere che ora brandisce la regina... 	
+BOH_FAELIN_MISSION16_LOREBOOK_01	Nesssuno sssaprà mai quale voce mi ha susssurrato dall'ossscurità. Non comprenderanno mai cosa ho rissschiato... cosa ho sssofferto per sopportare tanta bellezza e... tanto terrore. Quessste contraddizioni non attecchissscono nelle menti rissstrette, perciò le lascerò con l'unica traccia che posssono davvero comprendere. Il potere.	
+BOH_FAELIN_MISSION16_LOREBOOK_02	In tempi antichi, mia zia fu una Sacerdotessa di Elune. Con la benedizione della Dea della Luna, creò amuleti e talismani per proteggere la sssua famiglia. Dopo esssersi unita alla corte, Zainra rifiutò il suo, così lo presi io e restai in attesa di donarlo alla persssona giusta.	
+BOH_FAELIN_MISSION2_LOREBOOK_01	La città di Zin-Azshari prende il nome dalla nostra più illustre regina, Azshara. La sua saggezza e la sua potenza hanno guidato gli Elfi verso nuove vette, e le nostre imprese ineguagliabili hanno suscitato l'invidia di tutti. Il nostro sarà un futuro radioso.	
+BOH_FAELIN_MISSION2_LOREBOOK_02	Il capitano non riesce a dormire, ultimamente. Fa strani sogni, ma non vuole parlarmene. La scorsa notte, quando mi sono avvicinato a lui, farfugliava qualcosa su un'armata di serpenti e una voce femminile che lo esortava a cercare delle reliquie. Sto seriamente pensando all'ammutinamento e a una nuova carriera da giardiniere.	
+BOH_FAELIN_MISSION3_LOREBOOK_01	Stavo giusto andando a saccheggiare nuove acque quando mi è giunta notizia che n'imbarcazione perfetta era in attesa di essere sequestrata. Ma soprattutto, era guidata da na ciurma di fessi! Ah! Certe volte sono fortunata, fortunata assai.	
+BOH_FAELIN_MISSION3_LOREBOOK_02	Stiamo seguendo la nave sin da quando il Capitan Zannuncino ce l'ha ordinato nei pressi di Suramar. Dice che vale ben più di tutti noi messi assieme! Non l'ho mai vista bramare qualcosa così tanto da quando ha sgraffignato quel pappagallo al vecchio Chiglialosca ai bei tempi d'oro.	
+BOH_FAELIN_MISSION3_LOREBOOK_03	Il nostro viaggio è iniziato male. L'ambasciatore sembra essere perso nel suo mondo e i membri dell'equipaggio stanno solo cercando di salvarsi la pelle, visti tutti i pirati che ci circondano. Tuttavia, potrebbe essere l'occasione perfetta per riprendermi ciò che è mio. E regolare i conti.	
+BOH_FAELIN_MISSION5A_LOREBOOK_01	Le nubi tempestose continuano a comparire.\nInfuriano sull'oceano senza svanire.\nSpaventano i marinai e strappano le vele.\n"Che fenomeno crudele!"	
+BOH_FAELIN_MISSION5A_LOREBOOK_02	Dopo anni passati al suo servizio, riesco a capire quando l'ambasciatore è preoccupato. Probabilmente, vorrebbe che fossimo più vicini alla nostra meta. Non so se gli altri capiranno le sue motivazioni... forse devo ancora capirle bene anche io.	
+BOH_FAELIN_MISSION5A_LOREBOOK_03	Questo ambasciatore è un tipo davvero curioso, e mi piace sempre di più. Anche se dice di voler visitare la sua terra natale, mi chiedo se non ci sia sotto qualcos'altro. A volte, mi è sembrato di notare una leggera tristezza nel suo sguardo, o forse non è abituato all'odore dei Murloc.	
+BOH_FAELIN_MISSION5A_LOREBOOK_04	Approfondendo la conoscenza dell'Ambasciatore, ho capito che ci nasconde qualcosa. C'è un segreto nel suo cuore, e servirà un cambiamento importante per portarlo in superficie. Nonostante questo, sento che le sue motivazioni sono pure, per cui nasconde il suo segreto per dolore, non per desiderio d'ingannare.	
+BOH_FAELIN_MISSION5B_LOREBOOK_01	Procurati una nave e controlla il nuovo perimetro di Suramar. Riferisci le tue scoperte il più presto possibile. L'Orda potrebbe già star cercando di batterci sul tempo, stringendo alleanze con i Nobili Oscuri. -M.S.	
+BOH_FAELIN_MISSION5B_LOREBOOK_02	Questo vascello mercantile, costruito a Roccavento, è stato tramandato nella mia famiglia da due generazioni. In origine, fungeva da collegamento fra Roccavento e Lordaeron, ma ha ampliato le sue rotte includendo quasi ogni oceano di Azeroth. Salpando con le sue vele rosse al vento, ha completato quasi tutte le spedizioni senza alcun incidente... e per giunta in tempo.	
+BOH_FAELIN_MISSION6_LOREBOOK_01	Il nostro viaggio da Roccavento a Forte degli Arditi a Nordania è iniziato a gonfie vele. Tuttavia, appena arrivati a metà percorso, un tremendo uragano è apparso dal niente e ci ha spinti in acque sconosciute, danneggiando irrimediabilmente la nave.	
+BOH_FAELIN_MISSION6_LOREBOOK_02	Mi domando perché l'ambasciatore non ci abbia mai detto perché vuole tanto tornare a Zin-Azshari... Forse nasconde qualcosa? Non sembra abbastanza furbo per farlo. Ma quella sua collaboratrice, Caye, di sicuro lo è. Spero di potermi fidare di loro.	
+BOH_FAELIN_MISSION6_LOREBOOK_03	Faelin è venuto in mio soccorso. Non sapevo se avrei potuto fidarmi di lui, data la sua irrequietezza e tutta quella questione poco pratica del "devo tornare a casa"... Ma in lui c'è molto più di quanto pensassi. In qualunque momento avrà bisogno di me, io ci sarò.	
+BOH_FAELIN_MISSION7_LOREBOOK_01	Questo lo leggo io! Mmm... "Attenzione a... qualcosa? Nelle profondità. Nell'eterna ehm, SBAVATURA, colei che non capisco chi sia attende gli ignari. Suo è il regno della R-O-V-I..." Bah, probabilmente non è niente d'importante.	
+BOH_FAELIN_MISSION7_LOREBOOK_02	Anche se la fortuna non ritiene opportuno farmi esplorare gli abissi, ho sentito storie riguardo a formidabili creature, tra cui anche il possente Ozumat. Si dice che questo kraken sia stato corrotto da forze oscure, che ne hanno aumentato a dismisura il potere.	
+BOH_FAELIN_MISSION7_LOREBOOK_03	Anche se la fortuna non ritiene opportuno farmi esplorare gli abissi, ho sentito storie riguardo a formidabili creature, tra cui anche il possente Ozumat. Si dice che questo kraken sia stato corrotto da forze oscure, che ne hanno aumentato a dismisura il potere.	
+BOH_FAELIN_MISSION9a_LOREBOOK_01	Gli onnipresenti Murloc si dimostrano un alimento sul quale fare affidamento in mare aperto. Appena pescati, è possibile ricavarne del sashimi o del poke. Inoltre, si possono mascherare gli eventuali sapori sgraditi in una zuppa di pesce speziata. Tuttavia, farli passare per tonno è pressoché impossibile.	
+BOH_FAELIN_MISSION9a_LOREBOOK_02	Uno dei miei rimpianti principali è che l'istruzione dei Murloc sia ancora agli albori. Nonostante altre specie abbiano una visione riduttiva di noi, i Murloc formano gruppi altamente variegati e complessi che si sono adattati sistematicamente all'ambiente che li circondava, sia che si tratti di un semplice lago, sia che si tratti del fondo del mare.	
+BOH_FAELIN_MISSION9b_LOREBOOK_01	Noi Mrrgglton siamo una normalissima famiglia di Murloc. Viviamo in una radiosa foresta di alghe di fianco ad alcune rovine che hanno da sempre suscitato l'interesse del nostro piccolo Pinnus, talmente tanto che ha deciso di diventare un esploratore! Siamo fieri di lui. Vorremmo solo vederlo più spesso.	
+BOH_FAELIN_MISSION9b_LOREBOOK_02	Questo non è un semplice dispositivo, ma un manufatto incantato che mi aiuterà nei miei viaggi. Per questo, è estremamente prezioso e ha un'alta probabilità di venirmi sottratto se lo portassi con me per Azeroth. Tenetelo d'occhio e non lasciate che il Cugino Errgl lo mangi quando viene a fare visita. Grazie infinite, --F	
+BOH_FAELIN_PROLOGUE_01	In gioventù, mi sono allenato senza un attimo di tregua per ottenere la forza che mi avrebbe permesso di proteggere gli innocenti. Nessuno può sovrastare le mie convinzioni. Le tue intenzioni sembrano pure, la mia lama sarà al tuo servizio.	
+BOH_FAELIN_PROLOGUE_02	Navigo sin da quando ne ho memoria. Mostri marini, naufragi, ammutinamenti... Ne ho viste di cotte e di crude. Ovunque tu sia diretto, io ti ci porterò sano e salvo... finché manterrai la tua parte dell'accordo.	
+BOH_FAELIN_PROLOGUE_03	In quanto membro fondatore della Lega degli Esploratori, mi impegno a esplorare gli angoli più remoti del mondo! Per me, più lontano si va, meglio è! Visitare delle rovine sommerse è proprio la mia specialità.	
+BOH_GARROSH_05	Il Mak'gora inizia con un rituale di benedizione delle armi!	
+BOH_GULDAN_01	|4(turno restante,turni restanti)	
+BOH_GULDAN_02	Magie dello Sciamano ancora da giocare	
+BOH_GULDAN_02b	Gioca Magie dello Sciamano per dimostrare il tuo valore al Trono degli Elementi.	
+BOH_GULDAN_08	L'Occhio di Sargeras ti osserva! Gioca carte costose prima di perdere troppi Cristalli di Mana.	
+BOH_ILLIDAN_01	Servitori nemici ancora da sconfiggere	
+BOH_ILLIDAN_02	Infliggi 40 danni a qualsiasi nemico per ottenere il Teschio di Gul'dan!	
+BOH_ILLIDAN_04	Mana da consumare per l'Occhio di Sargeras	
+BOH_ILLIDAN_04b	Consumando il tuo Mana potenzierai l'Occhio di Sargeras, che colpirà il Re dei Lich. Non lasciare che Malfurion interferisca!	
+BOH_ILLIDAN_07	Obelischi ancora da controllare	
+BOH_ILLIDAN_08	|4(turno restante,turni restanti)	
+BOH_MALFURION_01	Carte Addestramento ancora da giocare	
+BOH_MALFURION_01b	Gioca le carte che ricevi da Cenarius per completare il tuo addestramento!	
+BOH_REXXAR_02	Distruggi la Trappola per Orsi per guadagnare la fiducia di Misha!	
+BOH_THRALL_01	Questo è un combattimento da tre mini boss! Riceverai una nuova mano e un nuovo mazzo dopo aver sconfitto il Crocolisco Catturato.	
+BOH_THRALL_01a	Inizia il secondo round! Sconfiggi entrambi i Gatti di Montagna per ottenere la vittoria!	
+BOH_THRALL_01b	Inizia il terzo round! Sconfiggi il Bruto Ogre per vincere.	
+BOH_THRALL_02	Sconfiggi questi Spiriti Elementali per superare la prova.	
+BOH_THRALL_06	Alexstrasza ti riporterà alla Salute massima le prime tre volte che subirai danni letali, ma non potrà aiutarti mentre è Dormiente.	
+BOH_THRALL_08	Garrosh si sta avvicinando a un potere molto pericoloso, che sfrutterà quando sarà disperato!	
+BOH_UTHER_08	|4(turno restante,turni restanti)	
+BOH_VALEERA_01	Distruggi il Totem d'Addestramento per dimostrare di essere un vero gladiatore!	
+BOH_VALEERA_08	Ombre Silenziose da distruggere restanti	
+BOH_VALEERA_08b	Attacca le Ombre Silenziose portando la loro Salute a zero per completare la prova di Jorach!	
+BOM_DAWNGRASP_01	Turni mancanti al lutto	
+BOM_DAWNGRASP_07	Turni mancanti alla sopravvivenza	
+BOM_GUFF_02	Fenditure ancora da esplorare	
+BOM_TAMSIN_07	Anetheron può fermare l'armata di Roccavento. Evoca 7 Demoni per risvegliarlo.	
+BOM_TAMSIN_08	I servitori non possono infliggere danni a Cornelius, ma forse non è del tutto invulnerabile.	
+BOTA_PUZZLE_CONGRATULATIONS	Ottimo lavoro!	
+BOTA_PUZZLE_END_TURN_REMINDER	Se sei bloccato, riprova.	
+BOTA_PUZZLE_LOADING	Caricamento\nenigma...	
+BOTA_PUZZLE_PROGRESS	Enigma {0}/{1}	
+BOTA_PUZZLE_RESETTING	Riavvio enigma...	
+DALA_MISSION_CHAPTER_SUBTEXT_01	Banca di Dalaran	
+DALA_MISSION_CHAPTER_SUBTEXT_01_HEROIC	Banca di Dalaran (Eroica)	
+DALA_MISSION_CHAPTER_SUBTEXT_02	Fortezza Violacea	
+DALA_MISSION_CHAPTER_SUBTEXT_02_HEROIC	Fortezza Violacea (Eroica)	
+DALA_MISSION_CHAPTER_SUBTEXT_03	Strade di Dalaran	
+DALA_MISSION_CHAPTER_SUBTEXT_03_HEROIC	Strade di Dalaran (Eroica)	
+DALA_MISSION_CHAPTER_SUBTEXT_04	Sotterranei	
+DALA_MISSION_CHAPTER_SUBTEXT_04_HEROIC	Sotterranei (Eroica)	
+DALA_MISSION_CHAPTER_SUBTEXT_05	Cittadella del Kirin Tor	
+DALA_MISSION_CHAPTER_SUBTEXT_05_HEROIC	Cittadella del Kirin Tor (Eroica)	
+DALA_TAVERN_POPUP	Modifica il tuo mazzo in questa sessione:\naggiungi o rimuovi servitori e tanto altro!	
+DALA_TAVERN_TURN_START	Scontro Amichevole	
+DEMON_HUNTER_PROLOGUE_2_PORTAL_POPUP	Elimina l'Energia Instabile per stabilizzare il portale!	
+FB_BUILDABRAWL_001	Per la forza della Gara di evocazione!	
+FB_BUILDABRAWL_002	Per la forza del Ballo in maschera!	
+FB_BUILDABRAWL_003	Per la forza del Servitore perfetto!	
+FB_BUILDABRAWL_004	Per la forza dello Scontro tra servitori!	
+FB_BUILDABRAWL_005	Casualizzazione della Gara di evocazione	
+FB_BUILDABRAWL_006	Casualizzazione del Ballo in maschera	
+FB_BUILDABRAWL_007	Casualizzazione del Servitore perfetto	
+FB_BUILDABRAWL_008	Casualizzazione dello Scontro tra servitori	
+FB_BUILDABRAWL_009	Battaglia della Gara di evocazione 	
+FB_BUILDABRAWL_010	Battaglia del Ballo in maschera	
+FB_BUILDABRAWL_011	Battaglia del Servitore perfetto	
+FB_BUILDABRAWL_012	Battaglia dello Scontro tra servitori	
+FB_BUILDABRAWL_013	Gara di evocazione del sangue	
+FB_BUILDABRAWL_014	Ballo in maschera del sangue	
+FB_BUILDABRAWL_015	Servitore perfetto del sangue	
+FB_BUILDABRAWL_016	Scontro tra servitori del sangue	
+FB_BUILDABRAWL_INTRO	La Rissa attuale è:	
+FB_BUILDABRAWL_NOTSTARTED	La Rissa Fireside non è ancora cominciata: contatta il Locandiere per avviare la Frankenrissa!	
+FB_CHAMPS_FIREBAT_DRUID	Firebat iniziò le finali con questo Druido... e non perse mai! È stato il campione del 2014!	
+FB_CHAMPS_FIREBAT_HUNTER	Firebat scelse il Cacciatore per contrastare lo Stregone di DTwo, come vendetta per aver perso con il mazzo Ladro...	
+FB_CHAMPS_FIREBAT_ROGUE	Firebat impartì una sonora sconfitta al Sacerdote di DTwo nel 2014, eliminando l'avversario con un mazzo Miracle e un Banditore 12/4!	
+FB_CHAMPS_FIREBAT_WARLOCK	Lo Stregone di Firebat venne escluso nelle finali contro Tiddler Celestial. Come si comporterà adesso?	
+FB_CHAMPS_HUNTERACE_MAGE	Hunterace ha perso uno scontro speculare con questo mazzo con i Giganti di Montagna e le Chiamate dell'Evocatore.	
+FB_CHAMPS_HUNTERACE_ROGUE	Un Rinvenimento strategico fornito dalla Scagnozza Ladra ha assicurato a Hunterace la prima vittoria della sua serie di partite.	
+FB_CHAMPS_HUNTERACE_SHAMAN	Hunterace ha battuto il mazzo Stregone Zoo di Viper assicurandosi la vittoria nell'HCT 2019! 	
+FB_CHAMPS_HUNTERACE_WARRIOR	Questo potente Guerriero Control è stato escluso nelle finali... oggi invece potrai usarlo!	
+FB_CHAMPS_MERC14	Il mazzo "Mercenaries 14" ha spazzato via la competizione in Europa nella Rissa Lo scotto finale. Come se la caverà ora?	
+FB_CHAMPS_OSTKAKA_MAGE	Ostkaka giocò questo Mago Freeze contro il Mago Tempo di Hotform, riducendolo in cenere con le Palle di Fuoco. Che ironia!	
+FB_CHAMPS_OSTKAKA_ROGUE	Nell'ultimo scontro delle finali del 2015, Ostkaka sconfisse il Druido di Hotform ed entrò di diritto nella Sala dei Campioni!	
+FB_CHAMPS_OSTKAKA_WARRIOR	I Clienti Torvi aiutarono Ostkaka a vincere... anche senza il Comandante Cantaguerra. Questo si chiama giocare con stile!	
+FB_CHAMPS_PAVEL_DRUID	Pavel ha sconfitto DrHippi in una sfida speculare. I grossi servitori possono fare la differenza!	
+FB_CHAMPS_PAVEL_MAGE	Pavel ha dovuto prendere decisioni molto complicate durante il campionato del 2016. Tu come te la caverai?	
+FB_CHAMPS_PAVEL_ROGUE	Il Ladro di Pavel potrebbe avere dei problemi contro i mazzi più aggressivi, ma è in grado di infliggere danni ingenti!	
+FB_CHAMPS_PAVEL_SHAMAN	Lo Sciamano di Pavel venne sempre escluso dai suoi avversari. Come te la caverai con questo mazzo?	
+FB_CHAMPS_PAVEL_WARRIOR	Pavel ha giocato questo Guerriero C'thun due volte nelle finali, perdendo contro il Guerriero di DrHippi ma vincendo contro il suo Druido.	
+FB_CHAMPS_TOM60229_DRUID	tom60229 ha vinto il campionato del 2018 con questo mazzo. E ha anche vinto una partita grazie a un'Infestazione Totale tenuta in prima mano!	
+FB_CHAMPS_TOM60229_PRIEST	Il mazzo Sacerdote di tom60229 non ha carte doppie, ma una miriade di trucchi. Aspettati parecchie combo verso fine partita!	
+FB_CHAMPS_TOM60229_ROGUE	Spoiler: tom60229 ha lanciato Pugnalata alle Spalle su un suo servitore per creare un Edwin VanCleef da 10 Attacco al turno 2. Serve dire altro?	
+FB_CHAMPS_TOM60229_WARLOCK	Lo Stregone Cubo di tom60229, tra i mazzi esclusi dalle finali, contiene una manciata di sorprese pre-nerf.	
+FB_CHAMPS_VKLIOOON_DRUID	Dopo una lunga battaglia con lo Sciamano Missione di bloodyface, VKLiooon ha ottenuto la vittoria con la sua Lacrima di Ossirian.	
+FB_CHAMPS_VKLIOOON_HUNTER	VKLiooon è partita forte e ha sconfitto il Druido Missione di bloodyface, venendo infine incoronata Hearthstone Global World Champion 2019!	
+FB_CHAMPS_VKLIOOON_PRIEST	Il mazzo Sacerdote di VKLiooon è stato escluso nella finale dei Global World Championships 2019... ma qui potrai usarlo!	
+FB_CHAMPS_VKLIOOON_SHAMAN	Global Finals 2019: una Lepre del Deserto nei primi turni seguita da DUE Evoluzione ha portato alla vittoria VKLiooon contro bloodyface.	
+FB_DuelersCardsLeft1	1 carta rimasta prima che tu possa pescare!	
+FB_DuelersCardsLeft2	2 carte rimaste prima che tu possa pescare!	
+FB_DuelersCardsLeft3	3 carte rimaste prima che tu possa pescare!	
+FB_DuelersCardsLeft4	4 carte rimaste prima che tu possa pescare!	
+FB_DuelersCardsLeft5	5 carte rimaste prima che tu possa pescare!	
+FB_ELO_EVEN	Sei stato abbinato a un avversario del tuo livello! Entrambi riceverete un Bonus Superiore!	
+FB_ELO_FAVORED	Sei il Favorito in questo scontro! L'avversario riceverà un Bonus Superiore.	
+FB_ELO_UNDERDOG	Sei lo Sfavorito in questo scontro! Riceverai un Bonus Superiore!	
+FB_IKC_CHOSE_SETUP	Gioca una nuova carta: diventerà la Scelta del Locandiere.	
+FB_IKC_ENDGAME	La nuova carta è stata scelta! Terminiamo la partita.	
+FB_IKC_NEWCARD	Vuoi tenere la carta vecchia o usare quella nuova?	
+FB_IKC_SETUP	Locandiere! Una domanda...	
+FB_JUGGERNAUT_CHOOSE_OPPONENT	Scegli il Capitano rivale...	
+FB_JUGGERNAUT_DRUID	Druido	
+FB_JUGGERNAUT_FIRSTLINE	Fuoco a volontà!	
+FB_JUGGERNAUT_HUNTER	Cacciatore	
+FB_JUGGERNAUT_MAGE	Mago	
+FB_JUGGERNAUT_PALADIN	Paladino	
+FB_JUGGERNAUT_PRIEST	Sacerdote	
+FB_JUGGERNAUT_ROGUE	Ladro	
+FB_JUGGERNAUT_SHAMAN	Sciamano	
+FB_JUGGERNAUT_UNKNOWN	Sconosciuto	
+FB_JUGGERNAUT_WARLOCK	Stregone	
+FB_JUGGERNAUT_WARRIOR	Guerriero	
+FB_LK_BOSSSWITCH	Sconfiggi il luogotenente del Re dei Lich per costringerlo a tornare!	
+FB_LK_DEAD_01	Congratulazioni, campioni!\nIl Re dei Lich è stato sconfitto!	
+FB_LK_DEAD_02	Contatta il Locandiere del Fireside per sfidarlo nuovamente!	
+FB_LK_HERO_01	Re dei Lich Supremo	
+FB_LK_HERO_02	Lana'thel	
+FB_LK_HERO_03	Professor Putricidio	
+FB_LK_HERO_04	Sire Ossamorte	
+FB_LK_HERO_05	Sindragosa	
+FB_LK_HEROSWITCH	Turno del Giocatore 2! Forza!	
+FB_LK_INTRO_01	Questa Rissa è stata pensata\nper due giocatori seduti vicini.	
+FB_LK_INTRO_02	Inizia il Giocatore 1\ne si collabora per sconfiggere\nil Re dei Lich!	
+FB_RAGRAID_01	Congratulazioni, campioni!\nIl Cattivissimo Ragnaros è stato sconfitto!	
+FB_TopX_Ban	Scegli una carta da escludere!	
+ICC_01_LICH_KING_SUBTEXT	Leggendario	
+ICC_01_TIRION_SUBTEXT	Non così Leggendario	
+ICC_01_TIRIONTURNS_01	Turni all'arrivo di Tirion: 1	
+ICC_01_TIRIONTURNS_02	Turni all'arrivo di Tirion: 2	
+ICC_01_TIRIONTURNS_03	Turni all'arrivo di Tirion: 3	
+ICC_05_LANATHEL_01	<b>Devi</b> mordere un servitore! Anche se non è sotto il tuo controllo!	
+ICCDruidVictory_01	Un tempo, proteggeva le lande selvagge di Azeroth portando la vita. Adesso, Malfurion l'Infetto mantiene l'equilibrio della natura portando la morte.	
+ICCHunterVictory_01	Rexxar liberò le anime intrappolate dal Re dei Lich. Estrasse una freccia nera dalla faretra. "Vieni, Misha!", disse. "La caccia comincia..."	
+ICCMageVictory_01	Il nuovo Lich del Gelo osservò il proprio dominio. Legioni di non morti le fornirono ulteriore potere. Non si accorse nemmeno che il suo sangue si era congelato.	
+ICCPaladinVictory_01	Il nobile Paladino abbracciò il suo destino. Chiunque conducesse una vita degna non aveva nulla da temere, ma i malvagi e gli indegni, nel momento della morte, avrebbero subito il suo giudizio...	
+ICCPriestVictory_01	Il corpo del giovane principe si dissolse nelle ombre. "Ora capisco tutto", disse Anduin, gli occhi che bruciavano di un fuoco blu. "Sono stato così ingenuo..."	
+ICCRogueVictory_01	Valeera l'Empia scomparve nella notte. Le sue ombre vedono tutto e nessuno è al sicuro dalle sue gelide lame...	
+ICCShamanVictory_01	La mente dello Sciamano si riempì della cacofonia dei caduti. Lo Scrutamorte chiuse gli occhi e pronunciò una sola parola: "Dormite".	
+ICCWarlockVictory_01	Alla fine, Gul'dan si sedette sul Trono di Ghiaccio. Il Portale Oscuro si riaprì nuovamente, e infiniti mondi iniziarono a tremare...	
+ICCWarriorVictory_01	L'ex Capoguerra dell'Orda abbracciò il suo nuovo potere. I corpi congelati delle vittime del suo esercito risorsero per servirlo, finché non divenne il padrone di tutto ciò che vedeva...	
+LOEA16_2_STAFF_TEXT_CHARGE_0	<b>Potere Eroe Passivo</b>\nIl tuo eroe è <b>Immune</b>. Tre turni rimanenti.	
+LOEA16_2_STAFF_TEXT_CHARGE_1	<b>Potere Eroe Passivo</b>\nIl tuo eroe è <b>Immune</b>. Due turni rimanenti.	
+LOEA16_2_STAFF_TEXT_CHARGE_2	<b>Potere Eroe Passivo</b>\nIl tuo eroe è <b>Immune</b>. Un turno rimanente!	
+LOEA16_2_STAFF_TEXT_CHARGE_EXPLODED	<b>Potere Eroe Passivo</b>\nEvoca un boss ma non è più <b>Immune</b>.	
+MISSION_AIRSHIPCOUNTERNAME	|4(Turno,Turni) alla vittoria	
+MISSION_DEFAULTCOUNTERNAME	|4(Turno,Turni) all'uscita	
+MISSION_GLOWING_POOL	Pozza Luminosa	
+MISSION_NEFARIAN_TITLE	Sterminatore di Servitori Deludenti, Stupidi e Incompetenti	
+MISSION_PIT_OF_SPIKES	Fossa con Spuntoni	
+MISSION_PRE_TUTORIAL_WANTED	Ricercato	
+MISSION_SPAREPARTSCOUNTERNAME	|4(Gadget,Gadget) per terminare le riparazioni	
+MISSION_STATUES_EYE	Occhio della Statua	
+MISSION_TAKE_THE_SHORTCUT	Prendere la Scorciatoia?	
+TB_100TH_BANANA_INFO_OPP	L'avversario ha un mazzo composto da carte casuali. Quando un suo servitore muore, ottiene una banana.	
+TB_100TH_BANANA_INFO_YOU	Hai un mazzo composto da carte casuali. Quando un tuo servitore muore, ottieni una banana.	
+TB_100TH_BANANA_OPP	Il tuo avversario sta giocando la Rissa 2, Repubblica delle banane!, apparsa la prima volta il 24 giugno 2015.	
+TB_100TH_BANANA_YOU	Stai giocando la Rissa 2, Repubblica delle banane!, apparsa la prima volta il 24 giugno 2015.	
+TB_100TH_CLONEBALL_INFO_OPP	L'avversario ha un mazzo composto da copie multiple di carte Leggendarie.	
+TB_100TH_CLONEBALL_INFO_YOU	Hai un mazzo composto da copie multiple di carte Leggendarie.	
+TB_100TH_CLONEBALL_OPP	Il tuo avversario sta giocando la Rissa 52, Palla clonatrice!, apparsa la prima volta l'8 giugno 2016.	
+TB_100TH_CLONEBALL_YOU	Stai giocando la Rissa 52, Palla clonatrice!, apparsa la prima volta l'8 giugno 2016.	
+TB_100TH_PARTYPORTAL_INFO_OPP	L'avversario ha un mazzo composto da carte Portale casuali.	
+TB_100TH_PARTYPORTAL_INFO_YOU	Hai un mazzo composto da carte Portale casuali.	
+TB_100TH_PARTYPORTAL_OPP	Il tuo avversario sta giocando la Rissa 64, Festa dei portali!, apparsa la prima volta il 31 agosto 2016.	
+TB_100TH_PARTYPORTAL_YOU	Stai giocando la Rissa 64, Festa dei portali!, apparsa la prima volta il 31 agosto 2016.	
+TB_100TH_PORTALS_INFO_OPP	L'avversario ha un mazzo composto principalmente da copie di Portali Instabili e poche altre carte.	
+TB_100TH_PORTALS_INFO_YOU	Hai un mazzo composto principalmente da copie di Portali Instabili e poche altre carte.	
+TB_100TH_PORTALS_OPP	Il tuo avversario sta giocando la Rissa 7, Portali senza frontiere, apparsa la prima volta il 29 luglio 2015.	
+TB_100TH_PORTALS_YOU	Stai giocando la Rissa 7, Portali senza frontiere, apparsa la prima volta il 29 luglio 2015.	
+TB_100TH_RANDEMONIUM_INFO_OPP	L'avversario ha un mazzo composto da carte casuali il cui costo cambia ogni turno.	
+TB_100TH_RANDEMONIUM_INFO_YOU	Hai un mazzo composto da carte casuali il cui costo cambia ogni turno.	
+TB_100TH_RANDOMONIUM_OPP	Il tuo avversario sta giocando la Rissa 18, Una carta non ha prezzo, apparsa la prima volta il 14 ottobre 2015.	
+TB_100TH_RANDOMONIUM_YOU	Stai giocando la Rissa 18, Una carta non ha prezzo, apparsa la prima volta il 14 ottobre 2015.	
+TB_100TH_RAVENIDOL_INFO_OPP	L'avversario ha un mazzo composto da 30 Idoli del Corvo.	
+TB_100TH_RAVENIDOL_INFO_YOU	Hai un mazzo composto da 30 Idoli del Corvo.	
+TB_100TH_RAVENIDOL_OPP	Il tuo avversario sta giocando la Rissa 45, Idoli di Azeroth, apparsa la prima volta il 20 aprile 2016.	
+TB_100TH_RAVENIDOL_YOU	Stai giocando la Rissa 45, Idoli di Azeroth, apparsa la prima volta il 20 aprile 2016.	
+TB_100TH_SHIFTER_INFO_OPP	L'avversario ha un mazzo composto principalmente da copie di Mutaforma Zerus e poche altre carte.	
+TB_100TH_SHIFTER_INFO_YOU	Hai un mazzo composto principalmente da copie di Mutaforma Zerus e poche altre carte.	
+TB_100TH_SHIFTER_OPP	Il tuo avversario sta giocando la Rissa 55, Convegno Mutaforma, apparsa la prima volta il 29 giugno 2016.	
+TB_100TH_SHIFTER_YOU	Stai giocando la Rissa 55, Convegno Mutaforma, apparsa la prima volta il 29 giugno 2016.	
+TB_100TH_SPELLBAG_INFO_OPP	L'avversario ha un mazzo composto da 30 Magie casuali che evocano un servitore quando vengono lanciate.	
+TB_100TH_SPELLBAG_INFO_YOU	Hai un mazzo composto da 30 Magie casuali che evocano un servitore quando vengono lanciate.	
+TB_100TH_SPELLBAG_OPP	Il tuo avversario sta giocando la Rissa 76, Sacca delle magie rubate di Valeera, apparsa la prima volta il 23 novembre 2016.	
+TB_100TH_SPELLBAG_YOU	Stai giocando la Rissa 76, Sacca delle magie rubate di Valeera, apparsa la prima volta il 23 novembre 2016.	
+TB_100TH_YOGG_INFO_OPP	L'avversario ha un mazzo composto da servitori casuali che lanciano una Magia casuale quando vengono giocati.	
+TB_100TH_YOGG_INFO_YOU	Hai un mazzo composto da servitori casuali che lanciano una Magia casuale quando vengono giocati.	
+TB_100TH_YOGG_OPP	Il tuo avversario sta giocando la Rissa 57, Il servitore perfetto, apparsa la prima volta il 13 luglio 2016.	
+TB_100TH_YOGG_YOU	Stai giocando la Rissa 57, Il servitore perfetto, apparsa la prima volta il 13 luglio 2016.	
+TB_207_01	Battaglia di Tol Barad	
+TB_207_02	Rissa del Sentiero Dorato	
+TB_207_03	Tesori delle Catacombe!	
+TB_207_04	Cloni all'Attacco!	
+TB_207_05	Ballo in Maschera	
+TB_207_06	Singolarità del Vuoto	
+TB_207_07	Palla Clonatrice!	
+TB_207_08	Casualizzazione	
+TB_207_09	Sacca delle Magie Rubate	
+TB_207_INTRO_01	La tua Rissa è: 	
+TB_207_INTRO_02	La Rissa del tuo avversario è: 	
+TB_CAROUSEL_A	Alla fine di ogni turno, i servitori ruotano in senso orario (verso sinistra).	
+TB_CAROUSEL_B	Alla fine di ogni turno, i servitori ruotano in senso antiorario (verso destra).	
+TB_DECKBUILDING_FIRSTCARDPLAYED	Dopo che hai giocato una carta, ne mette una copia nel tuo mazzo.	
+TB_DECKBUILDING_FIRSTENDTURN	Rimetti le carte che hai in mano nel tuo mazzo e ripesca.	
+TB_DECKBUILDING_FIRSTPICKTHREE	Scegli una nuova carta per la tua mano.	
+TB_DECKBUILDING_STARTOFGAME	Costruisci la tua squadra mentre giochi! Buona fortuna!	
+TB_DECKBUILDING_STARTOFGAME_START	Via!	
+TB_DECKRECIPE_MSG_DRUID	Modello: <b>Golem del Loto</b>.	
+TB_DECKRECIPE_MSG_HUNTER	Modello: <b>Branco di Bestie</b>.	
+TB_DECKRECIPE_MSG_MAGE	Modello: <b>Miscela della Kabala</b>.	
+TB_DECKRECIPE_MSG_PALADIN	Modello: <b>Mercato Crudele</b>.	
+TB_DECKRECIPE_MSG_PRIEST	Modello: <b>Cuore di Drago</b>.	
+TB_DECKRECIPE_MSG_ROGUE	Modello: <b>Porto di Meccania</b>.	
+TB_DECKRECIPE_MSG_SHAMAN	Modello: <b>Lega Murloc</b>.	
+TB_DECKRECIPE_MSG_WARLOCK	Modello: <b>Demoni della Kabala</b>.	
+TB_DECKRECIPE_MSG_WARRIOR	Modello: <b>Impero degli Sgherri</b>.	
+TB_DECKRECIPE_OG_DRUID	Sfrutta le Magie che forniscono Mana per evocare i servitori degli Dei Antichi prima dell'avversario.	
+TB_DECKRECIPE_OG_HUNTER	Non temere la morte: i tuoi servitori sono utili anche nel momento del trapasso. Preparati a sacrificare i tuoi servitori, il vantaggio sarà tutto tuo.	
+TB_DECKRECIPE_OG_MAGE	Lancia tutte le Magie che puoi: ognuna di esse alimenta la rinascita di Yogg-Saron!	
+TB_DECKRECIPE_OG_PALADIN	Proteggi i tuoi servitori con Scudo Divino, così che possano eliminare più nemici!	
+TB_DECKRECIPE_OG_PRIEST	Cura i tuoi servitori per tenerli in vita abbastanza a lungo da assistere all'ascesa del terribile C'thun!	
+TB_DECKRECIPE_OG_ROGUE	Usa in modo aggressivo i tuoi servitori! Molti di loro forniscono un vantaggio alla morte, per cui sacrificali senza remore.	
+TB_DECKRECIPE_OG_SHAMAN	Evoca quanti più servitori possibile e poi evolvili! Muta i servitori che hanno già fatto il proprio lavoro per ottenere il massimo!	
+TB_DECKRECIPE_OG_WARLOCK	Potenzia il tuo esercito con gli innumerevoli servitori degli Dei Antichi. Invadi il campo con servitori piccoli e annienta il tuo avversario.	
+TB_DECKRECIPE_OG_WARRIOR	Proteggiti mentre cresce la tua devozione per C'thun. Accumula Armatura per rendere futili gli sforzi del nemico prima dell'evocazione del Dio Antico.	
+TB_DPROMO_2NDHERO	Re Bovino	
+TB_DPROMO_2NDHEROPOPUP	Hai raggiunto il livello segreto!	
+TB_DPROMO_COWKINGEMOTES	Muu	
+TB_DUELERSBRAWL_SUDDEN_DEATH	Scontro Decisivo!	
+TB_DUELERSBRAWL_TAKE_PACES	Fai 5 passi, poi pesca!	
+TB_EVILBRM_CURRENT_BEST_SCORE	Miglior punteggio\nattuale:	
+TB_EVILBRM_NEW_BEST_SCORE	Nuovo record!	
+TB_FIREFEST_FIRST	Mini-Rag ottiene Attacco quando incenerisce un servitore!	
+TB_FIREFEST_SECOND	Ben fatto! Alimenta la sua furia per una speciale ricompensa!	
+TB_FIREFEST2_01	Ragnaros il Signore del Fuoco	
+TB_FIREFEST2_02	Ahune il Signore del Gelo	
+TB_GIFTEXCHANGE_GIFTSPAWNED	Se dalla tua parte non ci sono casse, te ne verrà consegnata una.	
+TB_GIFTEXCHANGE_GIFTSTOLEN	Hai ottenuto un dono! Cosa mai potrà essere?	
+TB_GIFTEXCHANGE_START	Buona festa di Grande Inverno! Prendete questi Doni Natalizi!	
+TB_HEADLESS_HORSEMAN_POISON	Non puoi avvelenare questo non morto, è troppo potente!	
+TB_HEADLESSREDUX_01	Sei il Cavaliere Senza Testa, proteggi il tuo cimitero!	
+TB_HEADLESSREDUX_02	Per vincere, distruggi gli avventurieri in costume Hazel, Baffo e Gancio!	
+TB_HEADLESSREDUX_03	Sei finito nel cimitero del Cavaliere Senza Testa! 	
+TB_HEADLESSREDUX_04	Se non vuoi perdere, proteggi gli avventurieri in costume Hazel, Baffo e Gancio!	
+TB_KOBOLDGIFTS_01	"Guardate in cielo, arriva Babbo Coboldo!"	
+TB_KOBOLDGIFTS_02	"Babbo Coboldo tornerà il prossimo turno: assicurati che ci sia spazio a sufficienza!"	
+TB_LEAGUE_REVIVAL_01	Ser Pinnus è seppellito nella sabbia! Elimina i Cumuli di Sabbia per liberarlo!	
+TB_LEAGUE_REVIVAL_02	Ser Pinnus delle Sabbie è stato aggiunto al tuo mazzo.	
+TB_LEAGUE_REVIVAL_03	Collabora con Brann per sconfiggere Re Krush il Selvaggio!	
+TB_LEAGUE_REVIVAL_04	Se Re Krush sconfigge uno tra te e Brann, perderete entrambi!	
+TB_LEAGUE_REVIVAL_05	Il Domasauri Brann è stato aggiunto al tuo mazzo.	
+TB_LEAGUE_REVIVAL_06	Reno non ha idea di come usare quell'affare! Fallo ragionare!	
+TB_LEAGUE_REVIVAL_07	Reno il Reliquiologo è stato aggiunto al tuo mazzo.	
+TB_LETHAL_NAME	Un solo turno	
+TB_LETHALPUZZLES_FAILURE	 Riprova!	
+TB_LETHALPUZZLES_START	Ogni turno, devi sconfiggere l'avversario... buona fortuna!	
+TB_LETHALPUZZLES_SUCCESS	Ce l'hai fatta!	
+TB_MARIN_QUEST	Chi completa per primo la Missione avrà un vantaggio per l'ottenimento del tesoro!	
+TB_MP_BOSS	Roccavento Decorata	
+TB_MP_BOSS2	Città in festa	
+TB_MP_BOSS3	Capitale della festa	
+TB_MP_COOP_1STSPELL	Oh oh, la Kabala deve essersi avvicinata troppo al punch...	
+TB_MP_COOP_2NDSPELL	È vietato accendere i fuochi d'artificio all'interno!	
+TB_MP_COOP_CRASHER_DISCARD	Il Guastafeste non ne può più di restare nella mano del giocatore e se ne va.	
+TB_MP_COOP_ENDING	Vittoria! Grazie per aver celebrato l'Anno del Mammut con noi!	
+TB_MP_COOP_FIRST_CRASHER	Attenzione! Quei tizi stanno cercando di rovinare la festa. Liberati di loro!	
+TB_MP_COOP_PINATA	Ottimo lavoro! È giunta l'ora di colpire la Piñata! Ma fai attenzione: i Guastafeste ci stanno dando sotto...	
+TB_MP_COOP_TEXT_START	Usa il tuo Potere Eroe per decorare la locanda con l'aiuto dell'altro giocatore!	
+TB_MP_CROSSROADS	Aspetta, chi è quel tipo?	
+TB_MP_CROSSROADS_CRASHER	Cosa ci fa qui?	
+TB_MP_STORMWIND_SUCCESS	Ce l'hai fatta! Quanto ancora riuscirai a resistere?	
+TB_PICKYOURFATE_BUILDAROUND_FIRSTFATE	I fati scelti influenzano entrambi i giocatori!	
+TB_PICKYOURFATE_BUILDAROUND_NEWFATE	Ricorda, questo bonus vale solo per te.	
+TB_PICKYOURFATE_BUILDAROUND_OPPONENT_FIRSTFATE	Il fato dell'avversario influenza anche te!	
+TB_PICKYOURFATE_BUILDAROUND_OPPONENTFATE	Ricorda, questo bonus vale solo per il tuo avversario.	
+TB_PICKYOURFATE_RANDOM_FIRSTFATE	I fati scelti influenzano entrambi i giocatori!	
+TB_PICKYOURFATE_RANDOM_NEWFATE	Ti serve un nuovo fato!	
+TB_PICKYOURFATE_RANDOM_OPPONENTFATE	Al tuo avversario serve un nuovo fato!	
+TB_SHADOWTOWERS_ADJACENTMINIONS	I servitori adiacenti a una Torre ottengono <b>Furtività</b> e non possono attaccare.	
+TB_SHADOWTOWERS_SHADOWSPAWNED	Se un lato del campo non ha una Torre, ne verrà evocata una.	
+TB_SHADOWTOWERS_SHADOWSPAWNEDNEXT	Le Torri mancanti vengono sostituite all'inizio del proprio turno.	
+ULDA_MISSION_CHAPTER_SUBTEXT_01	La Città Perduta	
+ULDA_MISSION_CHAPTER_SUBTEXT_01_HEROIC	La Città Perduta (Eroica)	
+ULDA_MISSION_CHAPTER_SUBTEXT_02	Le Dune Incandescenti	
+ULDA_MISSION_CHAPTER_SUBTEXT_02_HEROIC	Le Dune Incandescenti (Eroica)	
+ULDA_MISSION_CHAPTER_SUBTEXT_03	La Tomba di Khartut	
+ULDA_MISSION_CHAPTER_SUBTEXT_03_HEROIC	La Tomba di Khartut (Eroica)	
+ULDA_MISSION_CHAPTER_SUBTEXT_04	Le Sale della Creazione	
+ULDA_MISSION_CHAPTER_SUBTEXT_04_HEROIC	Le Sale della Creazione (Eroica)	
+ULDA_MISSION_CHAPTER_SUBTEXT_05	Il Santuario Interno	
+ULDA_MISSION_CHAPTER_SUBTEXT_05_HEROIC	Il Santuario Interno (Eroica)	

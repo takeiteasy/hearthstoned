@@ -1,0 +1,342 @@
+TAG	TEXT	COMMENT
+BOH_ANDUIN_06	Dieser Diener ist Teil Eurer Quest! Besiegt ihn und die nächsten zwei legendären Gegner.	
+BOH_ANDUIN_08	Besiegt Sylvanas’ legendäre Diener, um die Schlacht zu gewinnen!	
+BOH_FAELIN_06	Greift die Diener auf der anderen Seite des Spielbretts an, um sie vor dem Untergehen zu retten!	
+BOH_FAELIN_06a	Besiegt feindliche Diener, damit Käpt’n Maya weiteren Passagieren und Crewmitgliedern helfen kann, zu fliehen!	
+BOH_FAELIN_06b	Verbleibende zu rettende Diener	
+BOH_FAELIN_MISSION1_LOREBOOK_01	Tag 601: Immer noch keine Passagiere. Vielleicht hätte ich ein U-Boot mit geringeren Betriebskosten bauen sollen. Aber wo bleibt da der Spaß? Die Leviathan ist jede ihrer Goldmünzen wert. Irgendwann muss doch bestimmt jemand runter zum Meeresgrund? Außer mir, meine ich. Ich bin ja nicht Spitzentüftlerin geworden, um an normalen Orten rumzuhängen. 	
+BOH_FAELIN_MISSION1_LOREBOOK_02	In Anlehnung an die Unterseeboote, die im Zweiten Krieg entworfen wurden, verfügt die Leviathan über viele einzigartige Funktionen. Ihr verbesserter Fusionskern hat sich bei allen Gefahren_– außer Feuer_– als erstaunlich stabil erwiesen und die Schnittstelle des Hauptrechners wurde noch nie gehackt, abgesehen von der Sturmspulen-Überbrückung.	
+BOH_FAELIN_MISSION10a_LOREBOOK_01	Auf jedwede Unterstützung der Rebellen Jarod Schattensang, Malfurion Sturmgrimm und Tyrande Wisperwind oder ihrer Mitverschwörer steht eine schnelle und gnadenlose Strafe, einschließlich Gefängnis oder Exekution. Auf Befehl Ihrer Hoheit, dem Licht der Lichter, Königin Azshara.	
+BOH_FAELIN_MISSION10a_LOREBOOK_02	Nachdem die Armee des Widerstands über Königin Azsharas Dämonen triumphiert hatte, begann die Zerschlagung. Die kataklysmische Gewalt zerstörte den Palast in Zin-Azshari und schickte all seine Bewohner auf den Meeresgrund. Aus irgendeinem Grund starben sie nicht_... sondern verwandelten sich in groteske Naga, wodurch sie unter Wasser überleben konnten.	
+BOH_FAELIN_MISSION10a_LOREBOOK_02b	Nachdem die Armee des Widerstands über Königin Azsharas Dämonen triumphiert hatte, begann die Zerschlagung. Die kataklysmische Gewalt zerstörte den Palast in Zin-Azshari und schickte all seine Bewohner auf den Meeresgrund. Aus irgendeinem Grund starben sie nicht_... sondern verwandelten sich in groteske Naga, wodurch sie unter Wasser überleben konnten.	
+BOH_FAELIN_MISSION10a_LOREBOOK_03	Lieber Faelin, ich hielt einen Brief für die beste Art, meine Dankbarkeit zu bekunden. Ich weiß, unsere kleine Familienzusammenkunft war nicht leicht zu erdulden, aber Euer Eingreifen war wirklich entscheidend. Ich hoffe, wir werden trotz allem, was vor uns liegt, gute Freunde!	
+BOH_FAELIN_MISSION10a_LOREBOOK_04	Grace, ich hoffe, Ihr seid wohlauf_– und dass diese Nachricht Euch überhaupt erreicht, jetzt, da ich sie ins Meer geworfen habe_... Ich wollte mich noch einmal entschuldigen. Ich wünschte, ich könnte mehr sagen, aber seid versichert, Ihr habt dem Königreich Sturmwind einen großen Dienst erwiesen. Ich hoffe, wir sehen uns als Freunde wieder.	
+BOH_FAELIN_MISSION10b_LOREBOOK_01	Zwar sind viele von Elunes Anhängern starke Krieger, aber es gibt keinen ultimativen Beweis ihres Könnens. Die Hohepriesterin hat mir gestattet, eine Prüfung zu erschaffen, um die Grenzen ihrer geistigen und körperlichen Stärke zu bestimmen. Vielleicht finden wir mehr Rekruten, wenn sie in Zin-Azshari stattfindet.	
+BOH_FAELIN_MISSION10b_LOREBOOK_02	Lange Jahre sind vergangen, seit Königin Azshara oder ihre Herolde unseren Tempel in Suramar besucht haben. Ich glaube, die Hohepriesterin ahnt vieles, von dem sie nicht sprechen kann. Das letzte Geschenk aus dem Palast war ein großer Kristall, der mir für meine Kriegerprüfung gewährt wurde. 	
+BOH_FAELIN_MISSION11_LOREBOOK_01	Uns ist zu Ohren gekommen, dass die Bürger von Suramar unruhig sind und mehr Informationen aus dem Palast wünschen. Bitte ernennt einen neuen Botschafter, jemand umgänglichen mit guten Verbindungen, und schickt ihn sofort zu uns. Seid versichert, wenn man das Volk beschwichtigt, ist es leicht zu führen.	
+BOH_FAELIN_MISSION11_LOREBOOK_02	Faelin, Ihr sollt wissen, dass ich Euch jetzt schon vermisse. Aber Ihr müsst mir glauben, wenn ich sage, dass sich Zin-Azshari verändert hat. Etwas stimmt nicht, und niemand will es sehen. Eure Sicherheit bedeutet mir alles, selbst wenn wir eine Weile getrennt sein müssen. Hoffentlich dauert es nicht zu lange.	
+BOH_FAELIN_MISSION12_LOREBOOK_01	Egal, wie viele Streiche Ihr mir spielt oder wie oft wir in Schwierigkeiten geraten_...\nOder wie oft ich Euren Geburtstag vergesse oder Eure Briefe nicht beantworte_...\nWir bleiben Freunde für immer. Freunde für immer!	
+BOH_FAELIN_MISSION12_LOREBOOK_02	Haus Evenlar ist eine alte Familie mit engen Beziehungen zur Königin. Es heißt, dass sich in Azsharas königlichem Gefolge stets ein Evenlar befindet, und darauf sind wir stolz. Auf der_... anderen Seite der Familie haben wir auch eine Verwandte im Tempel von Elune in Suramar, zu unser aller Überraschung.	
+BOH_FAELIN_MISSION13_LOREBOOK_01	Gelehrte und Beamte erzählen anderes, aber ich kenne die Wahrheit. In ganz Zin-Azshari gibt es nur ein Gesetz, und das ist das Wohlgefallen der Königin. Wer dieses Gesetz bricht, der endet_... hier.	
+BOH_FAELIN_MISSION13_LOREBOOK_02	Ob sie mich je freilassen werden? Die Königin kennt sicher meine wahren Gefühle. Aber vielleicht steht meine Familie noch auf meiner Seite. Wenn sie für mich einschreiten, riskieren sie alles. Selbst mein Freund denkt sicher nur das Beste von mir und ist blind für die Wahrheit. Bei dem Versuch, es allen recht zu machen, habe ich sie alle verraten.	
+BOH_FAELIN_MISSION15_LOREBOOK_01	Meine liebe Zofe. Ich weiß, ich kann Euch die unbedeutende Angelegenheit mit den Gefangenen von der Oberfläche anvertrauen. Ich glaube, sie haben allein gehandelt und nicht als Anführer einer organisierten Invasion. Bitte exekutiert sie nach Belieben, oder bringt sie mir zur Belustigung, wenn sie besonders lebhaft sind.	
+BOH_FAELIN_MISSION15_LOREBOOK_02	Hier in den Tiefen lauern unnatürliche Dinge. Sie sind mit einer alten Macht verbunden, die weder dämonisch noch arkan ist. Niemand an der Oberfläche könnte die Opfer begreifen, die wir für unser Überleben erbracht haben_... oder die Macht, über die die Königin jetzt gebietet_... 	
+BOH_FAELIN_MISSION16_LOREBOOK_01	Niemand wird je wissen, was mir aus der Dunkelheit zugeflüstert hat. Sie werden nie begreifen, was ich riskiert habe_... wie ich gelitten habe_... um über solche Schönheit und solchen Schrecken zu gebieten. Diese Gegensätze entziehen sich Kleingeistern, also hinterlasse ich den einzigen Eindruck, den sie wirklich verstehen: Macht.	
+BOH_FAELIN_MISSION16_LOREBOOK_02	In alter Zeit war meine Tante eine Priesterin von Elune. Mit dem Segen der Mondgöttin erschuf sie Amulette, um unsere Familie zu beschützen. Als sie an den Hof ging, wies Zainra ihres zurück, also nahm ich es an mich, um es irgendwann der richtigen Person zu schenken.	
+BOH_FAELIN_MISSION2_LOREBOOK_01	Die Stadt Zin-Azshari wurde nach unserer glorreichen Königin Azshara benannt. Ihre Weisheit und Macht haben die Elfen in eine goldene Zeit geführt, und unsere beispiellosen Erfolge erregen überall Neid. Uns steht wahrlich eine strahlende Zukunft bevor.	
+BOH_FAELIN_MISSION2_LOREBOOK_02	Der Käpt’n ist in letzter Zeit unruhig. Er träumt nachts komisches Zeug und erzählt mir nichts. Als ich mich gestern Nacht an ihn rangeschlichen hab, faselte er von Schlangenarmeen und einer Frauenstimme, die ihm zurief, irgendwelche Relikte zu finden. Ich überlege, zu desertieren und Gärtner zu werden.	
+BOH_FAELIN_MISSION3_LOREBOOK_01	Ich wollt’ grad zu neu’n Gewässern aufbrech’n, da hör ich, dass ’n noch bess’res Schiff nur drauf wartet, geentert zu werd’n. Un’ das Beste daran: die Crew sin’ alles Amateure! Ha! Manchmal hab ich selbst für mich unverschämtes Glück.	
+BOH_FAELIN_MISSION3_LOREBOOK_02	Wir folgen dem Boot, seit Käpt’n Haizahn nahe Suramar den Befehl dazu gab. Der Käpt’n meint, es sei mehr wert als wir alle zusammen! Ich hab nicht mehr erlebt, dass sie was so dringend haben will, seit sie damals dem alten Raffrassel den Papagei geklaut hat.	
+BOH_FAELIN_MISSION3_LOREBOOK_03	Unsere Reise beginnt mit Schwierigkeiten. Der Botschafter scheint in seiner eigenen Welt zu leben und die Crew versucht bloß, inmitten all der Piraten in einem Stück zu bleiben. Doch das könnte die perfekte Chance sein, mein Eigentum zurückzufordern_... und eine alte Rechnung zu begleichen.	
+BOH_FAELIN_MISSION5A_LOREBOOK_01	Die Sturmwolken woll’n nicht vergeh’n.\nUnd soll ein Schiff den Morgen seh’n,\nmuss ihrem Zorn es widersteh’n.\n„Wie grausam ist dies Phänomen!“	
+BOH_FAELIN_MISSION5A_LOREBOOK_02	Nachdem ich jahrelang für ihn gearbeitet habe, erkenne ich, wenn der Botschafter nervös ist. Vermutlich wünschte er, wir wären unserem Ziel näher. Ich weiß nicht, ob die anderen seine wahren Motive verstehen werden. Vielleicht versuche ich selbst noch, sie zu verstehen.	
+BOH_FAELIN_MISSION5A_LOREBOOK_03	Ich muss sagen, der Botschafter ist schon ein seltsamer Bursche, auch wenn ich ihn zunehmend liebgewinne. Er behauptet zwar, nur seine Heimat besuchen zu wollen, aber ich frage mich, ob da nicht mehr dahinter steckt. Manchmal bemerke ich eine leichte Traurigkeit in seinem Blick_– entweder das, oder er ist den Geruch von Murlocs nicht gewohnt.	
+BOH_FAELIN_MISSION5A_LOREBOOK_04	Jetzt, da ich den Botschafter besser kenne, sehe ich, dass er etwas vor uns verheimlicht. Tief im Herzen trägt er ein Geheimnis, und nur eine gewaltige Veränderung kann es hervorbringen. Trotzdem halte ich seine Motive für rein, denn er verbirgt sein Geheimnis aus Schmerz, nicht, um uns zu täuschen.	
+BOH_FAELIN_MISSION5B_LOREBOOK_01	Beschafft ein Schiff und untersucht den zugänglich gewordenen Perimeter von Suramar. Berichtet so bald wie möglich von Euren Entdeckungen. Die Horde könnte uns ausmanövrieren, um sich mit den Nachtgeborenen zu verbünden. –_M.S.	
+BOH_FAELIN_MISSION5B_LOREBOOK_02	Dieses in Sturmwind erbaute Handelsschiff ist schon seit zwei Generationen im Besitz meiner Familie. Ursprünglich pendelte es nur zwischen seiner Heimatstadt und Lordaeron, befährt aber inzwischen beinahe jeden Ozean Azeroths. Mit seinen fliegenden roten Segeln hat es fast alle Lieferungen ohne Zwischenfälle abgeschlossen_... und sogar meistens pünktlich.	
+BOH_FAELIN_MISSION6_LOREBOOK_01	Unsere Reise begann reibungslos, als wir von Sturmwind aus zur Valianzfeste in Nordend aufbrachen. Als wir uns auf halbem Wege befanden, zog aus heiterem Himmel ein gewaltiger Hurrikan auf, der uns in unbekannte Gewässer trieb und das Schiff irreparabel beschädigte.	
+BOH_FAELIN_MISSION6_LOREBOOK_02	Ich frage mich, warum uns der Botschafter nie erzählt hat, warum genau er zurückkehren will_... Verbirgt er etwas? Ist er clever genug, etwas zu verbergen? Seine Begleiterin Caye scheint es zu sein. Ich hoffe, ich kann ihnen vertrauen.	
+BOH_FAELIN_MISSION6_LOREBOOK_03	Faelin hat mir wirklich geholfen. Ich war mir nicht sicher, ob ich ihm bei all seinem Leichtsinn und dem ganzen Gerede von „Heimkehr“ trauen konnte_... aber in ihm steckt mehr, als ich dachte. Wann immer er mich braucht, werde ich da sein.	
+BOH_FAELIN_MISSION7_LOREBOOK_01	Ich bin dran! Hm_... „Hütet Euch vor dem_... irgendwas? Unter den Wogen. In der ewigen, äh, GROSSER FLECK erwartet der Kann-ich-nicht-lesen die Unvorsichtigen. Hier liegt das Königreich der V-E-R-D-A-M-M...“ oh, ist vermutlich eh nicht wichtig.	
+BOH_FAELIN_MISSION7_LOREBOOK_02	Es war zwar nicht mein Los, die Tiefen zu erkunden, doch ich habe Geschichten über viele eindrucksvolle Kreaturen gehört, darunter der mächtige Ozumat. Es heißt, dass dieser Kraken von dunklen Mächten verderbt wurde, die ihn noch stärker machen.	
+BOH_FAELIN_MISSION7_LOREBOOK_03	Es war zwar nicht mein Los, die Tiefen zu erkunden, doch ich habe Geschichten über viele eindrucksvolle Kreaturen gehört, darunter der mächtige Ozumat. Es heißt, dass dieser Kraken von dunklen Mächten verderbt wurde, die ihn noch stärker machen.	
+BOH_FAELIN_MISSION9a_LOREBOOK_01	Der ubiquitäre Murloc ist auf hoher See eine verlässliche Ergänzung in der Kombüse. Frisch gefangen eignet er sich als passables Sashimi oder Poke, aber in einem würzigen Meeresfrüchteeintopf fallen auch_... strengere Aromen nicht auf. Allerdings wird Euch niemand glauben, dass es Thunfisch ist.	
+BOH_FAELIN_MISSION9a_LOREBOOK_02	Es ist höchst bedauerlich, dass das Studium der Murlocs noch immer in den Kinderschuhen steckt. Trotz der reduktiven Sichtweise anderer Spezies sind Murlocs eine äußerst vielfältige und komplexe Gruppe, die sich beständig an ihre Umgebung anpasst_– von Süßwasserseen bis hin zum Meeresgrund.	
+BOH_FAELIN_MISSION9b_LOREBOOK_01	Wir Mrrggltons sind eine ganz normale Murlocfamilie. Wir leben im sonnigen Tangwald neben einigen Ruinen, die unseren Sohn Finley so sehr begeistert haben, dass er Forscher geworden ist! Wir sind so stolz auf den Kleinen, heh. Ich wünschte nur, er würde uns häufiger besuchen.	
+BOH_FAELIN_MISSION9b_LOREBOOK_02	Dies ist kein gewöhnliches Gerät, sondern ein verzaubertes Artefakt, das mir auf meinen Reisen helfen wird. Darum ist es sehr wertvoll und anfällig für Diebstahl, wenn ich es quer durch Azeroth mit mir herumtrage. Seid so lieb und passt darauf auf, und lasst Cousin Errgl nicht darauf herumkauen, wenn er euch besucht. Vielen Dank, –_F.	
+BOH_FAELIN_PROLOGUE_01	In meiner Jugend habe ich pausenlos trainiert, um stark genug zu werden, die Unschuldigen zu beschützen. Kein Feind kann meiner Überzeugung standhalten. Eure Ziele scheinen hehr, also biete ich Euch meine Klinge.	
+BOH_FAELIN_PROLOGUE_02	Ich fahre schon zur See, so lange ich mich erinnern kann. Seemonster, Schiffbruch, Meutereien_... ich habe alles überlebt. Wohin Ihr auch wollt, ich kann Euch sicher hinbringen_... solange Ihr Euren Teil der Abmachung einhaltet.	
+BOH_FAELIN_PROLOGUE_03	Als Gründungsmitglied der Forscherliga habe ich mich der Erforschung der entferntesten Winkel der Welt verschrieben! Je entfernter, desto besser! Eine Unterwasserruine klingt ganz nach meinem Geschmack.	
+BOH_GARROSH_05	Das Mak’gora beginnt mit einer rituellen Segnung der Waffen!	
+BOH_GULDAN_01	|4(Zug,Züge) durchhalten	
+BOH_GULDAN_02	Verbleibende Schamanenzauber	
+BOH_GULDAN_02b	Spielt Schamanenzauber aus, um den Geistern am Thron der Elemente Euren Wert zu beweisen.	
+BOH_GULDAN_08	Das Auge des Sargeras ist auf Euch gerichtet! Spielt teure Karten aus, bevor Ihr zu viele Manakristalle verliert.	
+BOH_ILLIDAN_01	Verbleibende feindliche Diener	
+BOH_ILLIDAN_02	Fügt beliebigen Feinden 40 Schaden zu, um den Schädel des Gul’dan zu erhalten!	
+BOH_ILLIDAN_04	Verbleibendes Mana für das Auge des Sargeras	
+BOH_ILLIDAN_04b	Gebt Mana aus, um das Auge des Sargeras zu ermächtigen und den Lichkönig aus der Entfernung zu attackieren. Lasst nicht zu, dass Malfurion Eure Arbeit stört!	
+BOH_ILLIDAN_07	Verbleibende Obelisken	
+BOH_ILLIDAN_08	|4(Zug,Züge) durchhalten	
+BOH_MALFURION_01	Verbleibende Übungskarten	
+BOH_MALFURION_01b	Spielt die Karten aus, die Ihr von Cenarius erhaltet, um Eure Ausbildung abzuschließen!	
+BOH_REXXAR_02	Zerstört die Bärenfalle, um Mishas Vertrauen zu gewinnen!	
+BOH_THRALL_01	Dieser Kampf hat 3 Minibosse! Nach dem Sieg über den Gefangenen Krokilisken erhaltet Ihr neue Handkarten und ein neues Deck.	
+BOH_THRALL_01a	Teil 2 beginnt! Bekämpft beide Bergkatzen, um zu bestehen!	
+BOH_THRALL_01b	Teil 3 beginnt! Besiegt den Ogerschläger, um zu gewinnen.	
+BOH_THRALL_02	Besiegt diese Elementargeister, um die Prüfung zu bestehen.	
+BOH_THRALL_06	Die ersten 3 Male, wenn ihr tödlichen Schaden erleidet, stellt Alexstrasza das volle Leben Eures Helden wieder her. Sie kann Euch jedoch nicht unterstützen, wenn sie inaktiv ist.	
+BOH_THRALL_08	Garrosh hat sich mit einer gefährlichen Macht eingelassen. Er wird sie nutzen, wenn er keinen Ausweg sieht!	
+BOH_UTHER_08	|4(Zug,Züge) durchhalten	
+BOH_VALEERA_01	Zerstört das Übungstotem, um Euch als Gladiatorin zu beweisen!	
+BOH_VALEERA_08	Verbleibende Stille Schatten	
+BOH_VALEERA_08b	Greift die Stillen Schatten an, bis sie kein Leben mehr haben, um Jorachs Test zu bestehen!	
+BOM_DAWNGRASP_01	Verbleibende Züge für Trauer	
+BOM_DAWNGRASP_07	Verbleibende Züge zu überleben	
+BOM_GUFF_02	Verbleibende Spalte	
+BOM_TAMSIN_07	Anetheron kann die Armee von Sturmwind aufhalten. Beschwört 7 Dämonen, damit er erwacht.	
+BOM_TAMSIN_08	Diener können Cornelius nichts anhaben. Vielleicht ist er anderweitig verwundbar.	
+BOTA_PUZZLE_CONGRATULATIONS	Gute Arbeit!	
+BOTA_PUZZLE_END_TURN_REMINDER	Startet einfach neu, wenn Ihr nicht weiterkommt.	
+BOTA_PUZZLE_LOADING	Nächstes Rätsel\nwird geladen ...	
+BOTA_PUZZLE_PROGRESS	Rätsel {0}/{1}	
+BOTA_PUZZLE_RESETTING	Rätsel wird\nzurückgesetzt ...	
+DALA_MISSION_CHAPTER_SUBTEXT_01	Bank von Dalaran	
+DALA_MISSION_CHAPTER_SUBTEXT_01_HEROIC	Bank von Dalaran (Heroisch)	
+DALA_MISSION_CHAPTER_SUBTEXT_02	Die Violette Festung	
+DALA_MISSION_CHAPTER_SUBTEXT_02_HEROIC	Die Violette Festung (Heroisch)	
+DALA_MISSION_CHAPTER_SUBTEXT_03	Straßen von Dalaran	
+DALA_MISSION_CHAPTER_SUBTEXT_03_HEROIC	Straßen von Dalaran (Heroisch)	
+DALA_MISSION_CHAPTER_SUBTEXT_04	Die Schattenseite	
+DALA_MISSION_CHAPTER_SUBTEXT_04_HEROIC	Die Schattenseite (Heroisch)	
+DALA_MISSION_CHAPTER_SUBTEXT_05	Zitadelle der Kirin Tor	
+DALA_MISSION_CHAPTER_SUBTEXT_05_HEROIC	Zitadelle der Kirin Tor (Heroisch)	
+DALA_TAVERN_POPUP	Verändert Euer Abenteuerdeck für diesen Beutezug:\nDiener austauschen, Werte anpassen_...\nIhr habt die Wahl!	
+DALA_TAVERN_TURN_START	Verschnaufpause	
+DEMON_HUNTER_PROLOGUE_2_PORTAL_POPUP	Vernichtet Instabile Energie, um das Portal zu heilen!	
+FB_BUILDABRAWL_001	Bei der Macht der Beschwörer!	
+FB_BUILDABRAWL_002	Bei der Maske von Ragnaros!	
+FB_BUILDABRAWL_003	Bei der Macht von Yogg-Saron!	
+FB_BUILDABRAWL_004	Ragnaros mit Karacho	
+FB_BUILDABRAWL_005	Der große Wettstreit des Zufalls	
+FB_BUILDABRAWL_006	Der zufällige Maskenball	
+FB_BUILDABRAWL_007	Yogg-Saron sucht den Superzufall!	
+FB_BUILDABRAWL_008	Zufall mit Karacho	
+FB_BUILDABRAWL_009	Die Schlacht der Beschwörer	
+FB_BUILDABRAWL_010	Die Schlacht um den Maskenball	
+FB_BUILDABRAWL_011	Die Schlacht um Yogg-Saron	
+FB_BUILDABRAWL_012	Mit Karacho in die Schlacht	
+FB_BUILDABRAWL_013	Der große Wettstreit der Blutbeschwörer	
+FB_BUILDABRAWL_014	Der Blutmaskenball	
+FB_BUILDABRAWL_015	Yogg-Sarons Blut	
+FB_BUILDABRAWL_016	Blut und Karacho	
+FB_BUILDABRAWL_INTRO	Aktuelles Kartenchaos:	
+FB_BUILDABRAWL_NOTSTARTED	Das Fireside-Chaos hat noch nicht angefangen. Kontaktiert Euren Gastwirt, um ein selbstgemachtes Kartenchaos zu erstellen!	
+FB_CHAMPS_FIREBAT_DRUID	Firebat hat das Finale mit seinem Druiden begonnen und damit kein einziges Mal verloren! Er ist unser Champion von 2014!	
+FB_CHAMPS_FIREBAT_HUNTER	Firebat hat diesen Jäger gewählt, um DTwos Hexenmeister zu kontern und sich für sein verlorenes Schurkendeck zu revanchieren.	
+FB_CHAMPS_FIREBAT_ROGUE	Firebat hat DTwos Priester 2014 ganz klar geschlagen: Er hat ihm mit einem 12/4-Auktionator den Todesstoß versetzt!	
+FB_CHAMPS_FIREBAT_WARLOCK	Firebats Hexenmeister wurde im Finale von Tiddler Celestial gebannt. Wie wird es diesem Deck wohl jetzt ergehen?	
+FB_CHAMPS_HUNTERACE_MAGE	Mit diesem Deck rund um Bergriesen und Ruf des Beschwörers verlor Hunterace gegen ein fast identisches Deck.	
+FB_CHAMPS_HUNTERACE_ROGUE	Mit der Plünderin der Rüpelbande entdeckte Hunterace genau die Karte, die er für den ersten Sieg seiner Begegnung brauchte.	
+FB_CHAMPS_HUNTERACE_SHAMAN	Hunterace besiegte Vipers Zoo-Hexenmeister durch Erschöpfung und gewann dadurch die HCT Championship_2019. 	
+FB_CHAMPS_HUNTERACE_WARRIOR	Dieses mächtige Kontrollkriegerdeck wurde im Finale gebannt. Aber nicht heute!	
+FB_CHAMPS_MERC14	Mercenaries_14 hat sich in Europa beim Kartenchaos Die Feuertaufe bis ganz an die Spitze gekämpft. Wie wird sich das Deck hier schlagen?	
+FB_CHAMPS_OSTKAKA_MAGE	Ostkaka hat mit diesem eiskalten Magier gegen Hotforms Tempomagier gespielt und ihm mit Feuerbällen mächtig eingeheizt. Ironie des Schicksals_...	
+FB_CHAMPS_OSTKAKA_ROGUE	Im letzten Finalspiel 2015 hat Ostkaka Hotforms Druiden geschlagen und wurde in die Halle der Legenden aufgenommen!	
+FB_CHAMPS_OSTKAKA_WARRIOR	Grimmige Gäste haben Ostkaka zum Sieg verholfen, und das sogar ohne die Kriegshymnenanführerin. So spielt man mit Stil!	
+FB_CHAMPS_PAVEL_DRUID	In diesem Spiel hat Pavel DrHippi geschlagen. Achtet auf die großen Diener!	
+FB_CHAMPS_PAVEL_MAGE	Pavels Magier ist in der Weltmeisterschaft 2016 einige Male knapp davongekommen. Wie wird es Euch ergehen?	
+FB_CHAMPS_PAVEL_ROGUE	Mit aggressiven Decks tut sich Pavels Schurke mitunter schwer, aber sonst haut er gut rein!	
+FB_CHAMPS_PAVEL_SHAMAN	Pavels Schamane wurde von seinen Gegnern jedes Mal gebannt. Aber nicht hier!	
+FB_CHAMPS_PAVEL_WARRIOR	Im Finale hat Pavel zweimal mit diesem C’Thun-Krieger gespielt. Gegen DrHippis Krieger hat er verloren, aber gegen seinen Druiden gewonnen.	
+FB_CHAMPS_TOM60229_DRUID	Mit diesem Deck hat tom60229 die World Championship 2018 gewonnen. Seine Entscheidung, Üble Verseuchung zu behalten, hat das Spiel komplett verändert!	
+FB_CHAMPS_TOM60229_PRIEST	Das Priesterdeck von tom60229 enthält keine doppelten Karten, aber jede Menge Tricks. Die Combos in der späten Spielphase haben es in sich!	
+FB_CHAMPS_TOM60229_ROGUE	Das hat niemand kommen sehen: tom60229 meuchelt seinen eigenen Diener und erhält schon im zweiten Zug einen Edwin van Cleef mit 10 Angriff.	
+FB_CHAMPS_TOM60229_WARLOCK	Das Hexenmeisterdeck von tom60229 wartet mit Überraschungen aus der Zeit vor den Balanceänderungen auf und wurde im Finale gebannt.	
+FB_CHAMPS_VKLIOOON_DRUID	Nach einem langwierigen Kampf gegen bloodyface und sein Questschamanendeck verhalf VKLiooon die Ossirianträne schließlich zum Sieg.	
+FB_CHAMPS_VKLIOOON_HUNTER	VKLiooon hatte einen guten Start und besiegte bloodyfaces Questdruiden, was ihr den Titel Hearthstone-Weltmeister_2019 einbrachte.	
+FB_CHAMPS_VKLIOOON_PRIEST	VKLioons Priesterdeck wurde bei der letzten Begegnung der Global World Championships_2019 gebannt_… aber nicht hier!	
+FB_CHAMPS_VKLIOOON_SHAMAN	Global Finals_2019: Ein Wüstenhase im frühen Spielverlauf gefolgt von ZWEIMAL Evolution sicherte VKLiooon einen schnellen Sieg gegen bloodyface.	
+FB_DuelersCardsLeft1	Noch 1 Karte, bis Ihr ziehen könnt!	
+FB_DuelersCardsLeft2	Noch 2 Karten, bis Ihr ziehen könnt!	
+FB_DuelersCardsLeft3	Noch 3 Karten, bis Ihr ziehen könnt!	
+FB_DuelersCardsLeft4	Noch 4 Karten, bis Ihr ziehen könnt!	
+FB_DuelersCardsLeft5	Noch 5 Karten, bis Ihr ziehen könnt!	
+FB_ELO_EVEN	Ihr und Euer Gegner seid einander ebenbürtig! Ihr könnt beide einen großen Bonus auswählen!	
+FB_ELO_FAVORED	Ihr seid derzeit der Favorit, Euer Gegner erhält deshalb den großen Bonus.	
+FB_ELO_UNDERDOG	Ihr seid derzeit der Außenseiter und könnt deshalb einen großen Bonus auswählen.	
+FB_IKC_CHOSE_SETUP	Spielt eine neue Karte aus und sie wird zur Empfehlung des Gastwirts.	
+FB_IKC_ENDGAME	Die neue Karte wurde ausgewählt! Beenden wir das Spiel.	
+FB_IKC_NEWCARD	Alte Karte behalten oder neue verwenden?	
+FB_IKC_SETUP	Gastwirt! Eine Frage ...	
+FB_JUGGERNAUT_CHOOSE_OPPONENT	Wählt einen feindlichen Kapitän ...	
+FB_JUGGERNAUT_DRUID	Druide	
+FB_JUGGERNAUT_FIRSTLINE	Feuer frei!	
+FB_JUGGERNAUT_HUNTER	Jäger	
+FB_JUGGERNAUT_MAGE	Magier	
+FB_JUGGERNAUT_PALADIN	Paladin	
+FB_JUGGERNAUT_PRIEST	Priester	
+FB_JUGGERNAUT_ROGUE	Schurke	
+FB_JUGGERNAUT_SHAMAN	Schamane	
+FB_JUGGERNAUT_UNKNOWN	Unbekannt	
+FB_JUGGERNAUT_WARLOCK	Hexenmeister	
+FB_JUGGERNAUT_WARRIOR	Krieger	
+FB_LK_BOSSSWITCH	Besiegt den Handlanger des Lichkönigs und zwingt ihn zur Rückkehr!	
+FB_LK_DEAD_01	Glückwunsch, Champions!\nDer Lichkönig wurde besiegt!	
+FB_LK_DEAD_02	Wendet Euch an den Gastwirt Eures Fireside Gatherings, um ihn erneut herauszufordern!	
+FB_LK_HERO_01	Der ultimative Lichkönig	
+FB_LK_HERO_02	Blutkönigin Lana’thel	
+FB_LK_HERO_03	Professor Seuchenmord	
+FB_LK_HERO_04	Lord Mark’gar	
+FB_LK_HERO_05	Sindragosa	
+FB_LK_HEROSWITCH	Spieler 2 ist am Zug! Weiter so!	
+FB_LK_INTRO_01	Dieses Kartenchaos lässt sich am besten mit zwei Spielern spielen, die nebeneinander sitzen!	
+FB_LK_INTRO_02	Spieler 1 fängt an.\nArbeitet zusammen und\nbesiegt den Lichkönig!	
+FB_RAGRAID_01	Glückwunsch, Champions!\nDer große böse Ragnaros wurde besiegt!	
+FB_TopX_Ban	Wählt eine Karte, die Ihr verbannen wollt!	
+ICC_01_LICH_KING_SUBTEXT	Legendär	
+ICC_01_TIRION_SUBTEXT	Nicht so legendär	
+ICC_01_TIRIONTURNS_01	Züge, bis Tirion eintrifft: 1	
+ICC_01_TIRIONTURNS_02	Züge, bis Tirion eintrifft: 2	
+ICC_01_TIRIONTURNS_03	Züge, bis Tirion eintrifft: 3	
+ICC_05_LANATHEL_01	Ihr <b>müsst</b> einen Diener beißen! Auch wenn es ein feindlicher ist!	
+ICCDruidVictory_01	Einst war er der Beschützer des Lebens und hütete die Wildnis von Azeroth. Heute hat Malfurion der Befallene immer noch zum Ziel, das Gleichgewicht der Natur zu wahren, aber wacht über einen Garten des Todes.	
+ICCHunterVictory_01	Rexxar setzte die Seelen frei, die einst Gefangene des Lichkönigs gewesen waren. Er zog einen schwarzen Pfeil aus dem Köcher. „Komm, Misha“, raunte er. „Die Jagd beginnt_...“	
+ICCMageVictory_01	Als frischgekrönter Frostlich schaute Jaina auf ihr Reich. Legionen Untote erfüllten sie mit immer größerer Macht und sie merkte kaum, wie ihr Blut gefror.	
+ICCPaladinVictory_01	Der einst strahlende Paladin des Lichts akzeptierte sein neues Schicksal. Jene, die ein würdiges Leben führten, hatten nichts zu befürchten. Doch jene, die zu Lebzeiten dem Bösen gedient hatten, würden nach ihrem Tod gerichtet werden_...	
+ICCPriestVictory_01	Der Körper des jungen Prinzen wurde zu Schatten. „Jetzt sehe ich alles klar vor mir“, stieß er aus, und in seinen Augen loderten blaue Flammen. „Ich war so naiv_...“	
+ICCRogueVictory_01	Valeera die Bleiche verschwand in die Nacht. Ihre Schatten und Schemen sehen alles. Niemand ist sicher vor ihrer eisigen Klinge_...	
+ICCShamanVictory_01	Der Geist des Schamanen wurde mit den chaotischen Schreien der Toten überflutet. Unbeirrt schloss der Todesseher seine Augen und erwiderte nur ein Wort: „Schlaft.“	
+ICCWarlockVictory_01	Endlich saß Gul’dan auf dem Frostthron. Das Dunkle Portal öffnete sich erneut und unzählige Welten erzitterten vor ihm.	
+ICCWarriorVictory_01	Der einstige Kriegshäuptling der Horde gab sich seiner neu erlangten Macht hin. Die eisigen Leichen derer, die seinen Armeen zum Opfer gefallen waren, sollten sich erheben und dienen, bis er allein Gebieter über alles sein würde, was das Auge sieht_...	
+LOEA16_2_STAFF_TEXT_CHARGE_0	<b>Passive Heldenfähigkeit</b>\nEuer Held ist <b>immun</b>. Noch drei Züge.	
+LOEA16_2_STAFF_TEXT_CHARGE_1	<b>Passive Heldenfähigkeit</b>\nEuer Held ist <b>immun</b>. Noch zwei Züge.	
+LOEA16_2_STAFF_TEXT_CHARGE_2	<b>Passive Heldenfähigkeit</b>\nEuer Held ist <b>immun</b>. Nur noch ein Zug!	
+LOEA16_2_STAFF_TEXT_CHARGE_EXPLODED	<b>Passive Heldenfähigkeit</b>\nIhr habt einen Boss beschworen, aber Euer Held ist nicht mehr <b>immun</b>.	
+MISSION_AIRSHIPCOUNTERNAME	|4(Runde,Runden) bis zum Sieg	
+MISSION_DEFAULTCOUNTERNAME	|4(Runde,Runden) bis zum Ausgang	
+MISSION_GLOWING_POOL	Ein leuchtender Teich	
+MISSION_NEFARIAN_TITLE	Schlächter von dummen, inkompetenten und enttäuschenden Lakaien	
+MISSION_PIT_OF_SPIKES	Eine Stachelgrube	
+MISSION_PRE_TUTORIAL_WANTED	Gesucht	
+MISSION_SPAREPARTSCOUNTERNAME	|4(Ersatzteil,Ersatzteile) bis zur Reparatur	
+MISSION_STATUES_EYE	Das Auge der Statue	
+MISSION_TAKE_THE_SHORTCUT	Abkürzung gefällig?	
+TB_100TH_BANANA_INFO_OPP	Das Deck Eures Gegners besteht aus zufälligen Karten. Jedes Mal, wenn einer seiner Diener stirbt, erhält er eine Banane.	
+TB_100TH_BANANA_INFO_YOU	Euer Deck besteht aus zufälligen Karten. Jedes Mal, wenn einer Eurer Diener stirbt, erhaltet Ihr eine Banane.	
+TB_100TH_BANANA_OPP	Euer Gegner spielt das Kartenchaos „Bananenparty!“, das am 24. Juni 2015 als das 2. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_BANANA_YOU	Ihr spielt das Kartenchaos „Bananenparty!“, das am 24. Juni 2015 als das 2. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_CLONEBALL_INFO_OPP	Das Deck Eures Gegners besteht aus mehreren Kopien von zufälligen legendären Karten.	
+TB_100TH_CLONEBALL_INFO_YOU	Euer Deck besteht aus mehreren Kopien von zufälligen legendären Karten.	
+TB_100TH_CLONEBALL_OPP	Euer Gegner spielt das Kartenchaos „Klonball!“, das am 8. Juni 2016 als das 52. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_CLONEBALL_YOU	Ihr spielt das Kartenchaos „Klonball!“, das am 8. Juni 2016 als das 52. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_PARTYPORTAL_INFO_OPP	Das Deck dieses Spielers besteht aus zufälligen Portalkarten.	
+TB_100TH_PARTYPORTAL_INFO_YOU	Das Deck dieses Spielers besteht aus zufälligen Portalkarten.	
+TB_100TH_PARTYPORTAL_OPP	Euer Gegner spielt das Kartenchaos „Portalparty!“, das am 31. August 2016 als das 64. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_PARTYPORTAL_YOU	Ihr spielt das Kartenchaos „Portalparty!“, das am 31. August 2016 als das 64. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_PORTALS_INFO_OPP	Das Deck Eures Gegners enthält hauptsächlich Instabile Portale, sowie ein paar Zusatzkarten.	
+TB_100TH_PORTALS_INFO_YOU	Euer Deck enthält hauptsächlich Instabile Portale, sowie ein paar Zusatzkarten.	
+TB_100TH_PORTALS_OPP	Euer Gegner spielt das Kartenchaos „Zu viele Portale!“, das am 29. Juli 2015 als das 7. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_PORTALS_YOU	Ihr spielt das Kartenchaos „Zu viele Portale!“, das am 29. Juli 2015 als das 7. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_RANDEMONIUM_INFO_OPP	Das Deck Eures Gegners besteht aus zufälligen Karten, deren Kosten sich in jedem Zug ändern.	
+TB_100TH_RANDEMONIUM_INFO_YOU	Euer Deck besteht aus zufälligen Karten, deren Kosten sich in jedem Zug ändern.	
+TB_100TH_RANDOMONIUM_OPP	Euer Gegner spielt das Kartenchaos „Zufall total“, das am 14. Oktober 2015 als das 18. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_RANDOMONIUM_YOU	Ihr spielt das Kartenchaos „Zufall total“, das am 14. Oktober 2015 als das 18. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_RAVENIDOL_INFO_OPP	Das Deck Eures Gegners besteht aus 30 Rabengötzen.	
+TB_100TH_RAVENIDOL_INFO_YOU	Euer Deck besteht aus 30 Rabengötzen.	
+TB_100TH_RAVENIDOL_OPP	Euer Gegner spielt das Kartenchaos „Nicht viel Federlesens“, das am 20. April 2016 als das 45. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_RAVENIDOL_YOU	Ihr spielt das Kartenchaos „Nicht viel Federlesens“, das am 20. April 2016 als das 45. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_SHIFTER_INFO_OPP	Das Deck Eures Gegners enthält hauptsächlich Gestaltwandler Zerus, sowie ein paar Zusatzkarten.	
+TB_100TH_SHIFTER_INFO_YOU	Euer Deck enthält hauptsächlich Gestaltwandler Zerus, sowie ein paar Zusatzkarten.	
+TB_100TH_SHIFTER_OPP	Euer Gegner spielt das Kartenchaos „Doppelgänger-Konferenz“, das am 29. Juni 2016 als das 55. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_SHIFTER_YOU	Ihr spielt das Kartenchaos „Doppelgänger-Konferenz“, das am 29. Juni 2016 als das 55. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_SPELLBAG_INFO_OPP	Das Deck Eures Gegners besteht aus 30 zufälligen Zaubern, die jeweils einen Diener beschwören, wenn sie gewirkt werden.	
+TB_100TH_SPELLBAG_INFO_YOU	Euer Deck besteht aus 30 zufälligen Zaubern, die jeweils einen Diener beschwören, wenn sie gewirkt werden.	
+TB_100TH_SPELLBAG_OPP	Euer Gegner spielt das Kartenchaos „Valeeras Zauberklau“, das am 23. November 2016 als das 76. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_SPELLBAG_YOU	Ihr spielt das Kartenchaos „Valeeras Zauberklau“, das am 23. November 2016 als das 76. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_YOGG_INFO_OPP	Das Deck Eures Gegners besteht aus zufälligen Dienern, die beim Ausspielen jeweils einen zufälligen Zauber wirken.	
+TB_100TH_YOGG_INFO_YOU	Euer Deck besteht aus zufälligen Dienern, die beim Ausspielen jeweils einen zufälligen Zauber wirken.	
+TB_100TH_YOGG_OPP	Euer Gegner spielt das Kartenchaos „Yogg-Saron sucht den Superdiener!“, das am 13. Juni 2016 als das 57. Kartenchaos zum ersten Mal live ging.	
+TB_100TH_YOGG_YOU	Ihr spielt das Kartenchaos „Yogg-Saron sucht den Superdiener!“, das am 13. Juni 2016 als das 57. Kartenchaos zum ersten Mal live ging.	
+TB_207_01	Schlacht um Tol Barad	
+TB_207_02	Mit Verstand, Herz und Courage	
+TB_207_03	Katakombenschätze!	
+TB_207_04	Angriff der Klondiener	
+TB_207_05	Der Maskenball	
+TB_207_06	Die Leerensingularität	
+TB_207_07	Klonball!	
+TB_207_08	Zufall total	
+TB_207_09	Valeeras Zauberklau	
+TB_207_INTRO_01	Euer Kartenchaos:	
+TB_207_INTRO_02	Kartenchaos des Gegners:	
+TB_CAROUSEL_A	Am Ende jedes Zuges rücken alle Diener eine Position im Uhrzeigersinn weiter (nach links).	
+TB_CAROUSEL_B	Am Ende jedes Zuges rücken alle Diener eine Position gegen den Uhrzeigersinn weiter (nach rechts).	
+TB_DECKBUILDING_FIRSTCARDPLAYED	Nachdem Ihr eine Karte ausgespielt habt, erhaltet Ihr eine Kopie davon in Euer Deck.	
+TB_DECKBUILDING_FIRSTENDTURN	Mischt Eure Hand zurück ins Deck und zieht neue Karten.	
+TB_DECKBUILDING_FIRSTPICKTHREE	Wählt eine neue Handkarte aus.	
+TB_DECKBUILDING_STARTOFGAME	Euer Team wächst mit jedem Zug! Viel Glück!	
+TB_DECKBUILDING_STARTOFGAME_START	Los geht’s!	
+TB_DECKRECIPE_MSG_DRUID	Deckformel: <b>Die Golems des Lotus</b>.	
+TB_DECKRECIPE_MSG_HUNTER	Deckformel: <b>Wilde Meute</b>.	
+TB_DECKRECIPE_MSG_MAGE	Deckformel: <b>Die Mischung macht’s</b>.	
+TB_DECKRECIPE_MSG_PALADIN	Deckformel: <b>Auf dem Schwarzmarkt</b>.	
+TB_DECKRECIPE_MSG_PRIEST	Deckformel: <b>Feuer und Wasser</b>.	
+TB_DECKRECIPE_MSG_ROGUE	Deckformel: <b>Die Docks von Gadgetzan</b>.	
+TB_DECKRECIPE_MSG_SHAMAN	Deckformel: <b>Murlocbanden</b>.	
+TB_DECKRECIPE_MSG_WARLOCK	Deckformel: <b>Dämonen der Kabale</b>.	
+TB_DECKRECIPE_MSG_WARRIOR	Deckformel: <b>Ass im Ärmel</b>.	
+TB_DECKRECIPE_OG_DRUID	Verschafft Euch mit Druidenzaubern zusätzliches Mana und ruft die Diener der Alten Götter wesentlich früher als erwartet herbei.	
+TB_DECKRECIPE_OG_HUNTER	Fürchtet den Tod nicht, denn Eure Diener sind Euch lebendig ebenso nützlich wie tot. Tauscht sie immer wieder ein – früher oder später werdet Ihr den Gegner zermürben.	
+TB_DECKRECIPE_OG_MAGE	Wirkt so viele Zauber wie nur möglich – mit jedem wächst Yogg-Sarons Macht weiter an!	
+TB_DECKRECIPE_OG_PALADIN	Schützt Eure Diener mit Gottesschild, damit sie es gleich mit zwei Feinden aufnehmen können!	
+TB_DECKRECIPE_OG_PRIEST	Heilt Eure Diener und haltet sie lange genug am Leben, damit sie das Kommen des schrecklichen C’Thun miterleben können!	
+TB_DECKRECIPE_OG_ROGUE	Tauscht Eure Diener aggressiv ein! Schließlich verschaffen Euch die meisten beim Tod einen Vorteil_... opfert sie also ruhig.	
+TB_DECKRECIPE_OG_SHAMAN	Ruft so viele Diener wie möglich herbei und entwickelt sie dann weiter. Wählt Diener, deren Effekte schon wirksam sind, um den größten Vorteil herauszuholen!	
+TB_DECKRECIPE_OG_WARLOCK	Verstärkt Euer Heer mit den zahllosen Dienern der Alten Götter. Schickt Eure kleineren Diener in Massen auf das Schlachtfeld, um Euren Gegner zu überwältigen!	
+TB_DECKRECIPE_OG_WARRIOR	Schützt Euch und gebt Euch C’Thun immer mehr hin. Gegen Eure Rüstung und die Macht der Alten Götter wird Euer Gegner nichts ausrichten können!	
+TB_DPROMO_2NDHERO	Der Kuhkönig	
+TB_DPROMO_2NDHEROPOPUP	Ihr habt das Geheimlevel erreicht!	
+TB_DPROMO_COWKINGEMOTES	Muh	
+TB_DUELERSBRAWL_SUDDEN_DEATH	K.o.-Runde!	
+TB_DUELERSBRAWL_TAKE_PACES	Geht 5 Schritte zurück und_... zieht!	
+TB_EVILBRM_CURRENT_BEST_SCORE	Aktueller Rekord:	
+TB_EVILBRM_NEW_BEST_SCORE	Neuer Rekord!	
+TB_FIREFEST_FIRST	Raggis Angriff wird erhöht, wenn er einen Diener verbrennt!	
+TB_FIREFEST_SECOND	Gut gemacht! Verbrennt so viele Diener wie möglich, um eine besondere Belohnung zu erhalten!	
+TB_FIREFEST2_01	Ragnaros der Feuerfürst	
+TB_FIREFEST2_02	Ahune der Frostfürst	
+TB_GIFTEXCHANGE_GIFTSPAWNED	Wenn auf Eurer Seite keine Kiste ist, wird eine geliefert.	
+TB_GIFTEXCHANGE_GIFTSTOLEN	Ihr habt ein Geschenk erhalten! Was könnte es nur sein?	
+TB_GIFTEXCHANGE_START	Fröhliches Winterhauchfest! Schnappt Euch ein paar Geschenke!	
+TB_HEADLESS_HORSEMAN_POISON	Ihr könnt diesen Untoten nicht vergiften, er ist zu mächtig!	
+TB_HEADLESSREDUX_01	Ihr seid der kopflose Reiter, beschützt Euren Friedhof!	
+TB_HEADLESSREDUX_02	Vernichtet die kostümierten Abenteurer Morgana, Schnurps und Flynn, um zu gewinnen!	
+TB_HEADLESSREDUX_03	Ihr habt Euch auf den Friedhof des kopflosen Reiters verirrt!	
+TB_HEADLESSREDUX_04	Beschützt die kostümierten Abenteurer Morgana, Schnurps und Flynn oder Ihr verliert!	
+TB_KOBOLDGIFTS_01	„Schaut, dort oben am Himmel! Altvater Kobold!“	
+TB_KOBOLDGIFTS_02	„Altvater Kobold kommt nächste Runde wieder! Macht etwas Platz!“	
+TB_LEAGUE_REVIVAL_01	Sir Finley ist im Sand verschüttet! Schippt die Sandhaufen weg und grabt ihn aus!	
+TB_LEAGUE_REVIVAL_02	Sir Finley von Sande wurde zu Eurem Deck hinzugefügt.	
+TB_LEAGUE_REVIVAL_03	Arbeitet mit Brann zusammen, um Knirsch den Ungezähmten zu besiegen!	
+TB_LEAGUE_REVIVAL_04	Wenn Knirsch Euch oder Brann besiegt, habt Ihr beide verloren!	
+TB_LEAGUE_REVIVAL_05	Brann der Dinozähmer wurde zu Eurem Deck hinzugefügt.	
+TB_LEAGUE_REVIVAL_06	Reno hat keine Ahnung, wie man das Ding bedient! Bringt ihn zur Vernunft!	
+TB_LEAGUE_REVIVAL_07	Reno der Reliktologe wurde zu Eurem Deck hinzugefügt.	
+TB_LETHAL_NAME	Zugzwang	
+TB_LETHALPUZZLES_FAILURE	Versucht es erneut!	
+TB_LETHALPUZZLES_START	Ihr müsst in jeder Runde Euren Gegner besiegen_... Viel Glück!	
+TB_LETHALPUZZLES_SUCCESS	Ihr habt es geschafft!	
+TB_MARIN_QUEST	Wer seine Quest zuerst abschließt, erhält bei der Schatzjagd einen Vorsprung!	
+TB_MP_BOSS	Festliches Sturmwind	
+TB_MP_BOSS2	Sturmwind in Feierlaune	
+TB_MP_BOSS3	Partyhauptstadt	
+TB_MP_COOP_1STSPELL	Oh oh, anscheinend hat sich die Kabale an der Bowle zu schaffen gemacht_...	
+TB_MP_COOP_2NDSPELL	Bitte, lasst das Feuerwerk nicht drinnen los!	
+TB_MP_COOP_CRASHER_DISCARD	Der Ungeladene Gast findet es auf der Hand total öde und macht sich aus dem Staub.	
+TB_MP_COOP_ENDING	Ein voller Erfolg! Danke, dass Ihr das Jahr des Mammuts mit uns gefeiert habt!	
+TB_MP_COOP_FIRST_CRASHER	Vorsicht! Diese Typen versuchen sich auf die Party zu schmuggeln. Ladet sie wieder aus!	
+TB_MP_COOP_PINATA	Geschafft! Zeit, die Piñata zu zerbrechen! Aber Vorsicht: Die Ungeladenen Gäste sind außer Rand und Band_...	
+TB_MP_COOP_TEXT_START	Setzt Eure Heldenfähigkeit ein, um gemeinsam mit dem anderen Spieler das Gasthaus zu dekorieren!	
+TB_MP_CROSSROADS	Moment mal, wer ist das?	
+TB_MP_CROSSROADS_CRASHER	Was macht der denn hier?	
+TB_MP_STORMWIND_SUCCESS	Geschafft! Aber kommt Ihr noch weiter?	
+TB_PICKYOURFATE_BUILDAROUND_FIRSTFATE	Das gewählte Schicksal gilt für beide Spieler!	
+TB_PICKYOURFATE_BUILDAROUND_NEWFATE	Dieser Bonus gilt nur für Euch.	
+TB_PICKYOURFATE_BUILDAROUND_OPPONENT_FIRSTFATE	Das Schicksal Eures Gegners gilt auch für Euch!	
+TB_PICKYOURFATE_BUILDAROUND_OPPONENTFATE	Dieser Bonus gilt nur für Euren Gegner.	
+TB_PICKYOURFATE_RANDOM_FIRSTFATE	Das gewählte Schicksal gilt für beide Spieler!	
+TB_PICKYOURFATE_RANDOM_NEWFATE	Ihr braucht ein neues Schicksal!	
+TB_PICKYOURFATE_RANDOM_OPPONENTFATE	Euer Gegner braucht ein neues Schicksal!	
+TB_SHADOWTOWERS_ADJACENTMINIONS	Diener neben einem Turm haben <b>Verstohlenheit</b> und können nicht angreifen.	
+TB_SHADOWTOWERS_SHADOWSPAWNED	Wenn auf einer Seite kein Turm ist, wird einer beschworen.	
+TB_SHADOWTOWERS_SHADOWSPAWNEDNEXT	Fehlende Türme werden zu Beginn des Zuges ihres Besitzers beschworen.	
+ULDA_MISSION_CHAPTER_SUBTEXT_01	Die Verlorene Stadt	
+ULDA_MISSION_CHAPTER_SUBTEXT_01_HEROIC	Die Verlorene Stadt (Heroisch)	
+ULDA_MISSION_CHAPTER_SUBTEXT_02	Die sengenden Dünen	
+ULDA_MISSION_CHAPTER_SUBTEXT_02_HEROIC	Die sengenden Dünen (Heroisch)	
+ULDA_MISSION_CHAPTER_SUBTEXT_03	Grab des Khartut	
+ULDA_MISSION_CHAPTER_SUBTEXT_03_HEROIC	Grab des Khartut (Heroisch)	
+ULDA_MISSION_CHAPTER_SUBTEXT_04	Hallen des Ursprungs	
+ULDA_MISSION_CHAPTER_SUBTEXT_04_HEROIC	Hallen des Ursprungs (Heroisch)	
+ULDA_MISSION_CHAPTER_SUBTEXT_05	Das innere Sanktum	
+ULDA_MISSION_CHAPTER_SUBTEXT_05_HEROIC	Das innere Sanktum (Heroisch)	
