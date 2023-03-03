@@ -267,6 +267,11 @@ end
 socket = TCPServer.new 8080
 
 def FormResponse data, code=200
+    data = "{\"error\":\"Not in-game yet\"}" unless State.instance.inGame
+    if data == "{}"
+        data = "{\"error\": \"Nothing found\"}"
+        code = 404
+    end
     "HTTP/1.1 #{code}\r\nContent-Type: application/json\r\nContent-Length: #{data.length}\r\n\r\n#{data}"
 end
 
@@ -274,12 +279,27 @@ loop do
     client = socket.accept
     header = client.gets
     method, path, version = header.split
-
+    
     client.puts case method 
                 when "GET"
-                    FormResponse State.instance.entities.to_json
+                    case path.downcase
+                    when /^\/$/
+                        FormResponse State.instance.entities.to_json
+                    when /^\/player\/?$/
+                        FormResponse State.instance.players.to_json
+                    when /^\/player\/(\d+)\/?$/
+                        FormResponse State.instance.players.select { |k, v| v["PlayerID"] == $1 }.to_json
+                    when /^\/gamestate\/?$/
+                        FormResponse State.instance.entities["1"].to_json
+                    when /^\/entity\/?$/
+                        FormResponse State.instance.entities.to_json
+                    when /^\/entity\/(\d+)?\/?$/
+                        FormResponse State.instance.entities.select { |k, v| k == $1 }.to_json
+                    else
+                        FormResponse "{\"error\":\"Invalid API request\"}", code=404 
+                    end
                 else
-                    FormResponse "{\"error\":\"Unknown API request\"}", code=404
+                    FormResponse "{\"error\":\"Invalid API request\"}", code=404
                 end
 
     client.close
