@@ -1,6 +1,6 @@
-# HearthstoneD
+# hearthstoned
 
-Log monitoring daemon for Hearthstone
+Hearthstoned is a log monitoring daemon for Hearthstone. Interact with the daemon via a simple HTTP server that provides a simple API that returns a representation of the current game state in a JSON format. **WIP**
 
 ## License
 ```

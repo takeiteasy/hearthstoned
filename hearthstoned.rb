@@ -1,5 +1,6 @@
 require 'json'
 require 'singleton'
+require 'socket'
 
 def Error(msg, die=false)
     puts "#{die ? "FATAL " : ""}ERROR: #{msg}"
@@ -223,17 +224,19 @@ def Parse(line)
     end
 end
 
-# def Watch(f)
-#     f.seek 0, IO::SEEK_END
-#     loop do
-#         line = f.read
-#         unless line
-#             sleep 0.1
-#             next
-#         end
-#         yield line.strip
-#     end
-# end
+def Watch(f)
+    f.seek 0, IO::SEEK_END
+    loop do
+        line = f.read
+        if line.nil? or line.empty?
+            sleep 0.1
+            next
+        end
+        for l in line.split "\n"
+            yield l
+        end
+    end
+end
 
 # $PROGRAM_NAME = "hearthstoned"
 
@@ -247,15 +250,39 @@ end
 
 # Dir.chdir "/"
 
-# Watch File.open("/Applications/Hearthstone/Logs/Power.log", "r") do |line|
-$<.each_line do |line|
-    State.instance.currentLine = line
-    State.instance.currentLineNo += 1
-    if State.instance.inGame
-        Parse line.strip
-    else
-        State.instance.reset true if line =~ /GameState\.DebugPrintPower\(\) - CREATE_GAME$/
+
+Thread.new do
+    Watch File.open("/Applications/Hearthstone/Logs/Power.log", "r") do |line|
+    # $<.each_line do |line|
+        State.instance.currentLine = line
+        State.instance.currentLineNo += 1
+        if State.instance.inGame
+            Parse line.strip
+        else
+            State.instance.reset true if line =~ /GameState\.DebugPrintPower\(\) - CREATE_GAME$/
+        end
     end
 end
 
-State.instance.dump
+socket = TCPServer.new 8080
+
+def FormResponse data, code=200
+    "HTTP/1.1 #{code}\r\nContent-Type: application/json\r\nContent-Length: #{data.length}\r\n\r\n#{data}"
+end
+
+loop do
+    client = socket.accept
+    header = client.gets
+    method, path, version = header.split
+
+    client.puts case method 
+                when "GET"
+                    FormResponse State.instance.entities.to_json
+                else
+                    FormResponse "{\"error\":\"Unknown API request\"}", code=404
+                end
+
+    client.close
+end
+
+socket.close
