@@ -279,7 +279,6 @@ loop do
                 when "GET"
                     case path.downcase
                     when /^\/$/, /^\/entities\/?$/
-                        p State.instance.entities["20"]
                         FormResponse State.instance.entities.to_json
                     when /^\/entity\/(\d+)?\/?$/
                         FormResponse State.instance.entities.select { |k, v| k == $1 }.to_json
