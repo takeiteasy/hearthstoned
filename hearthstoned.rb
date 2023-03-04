@@ -10,14 +10,16 @@ end
 
 class State 
     include Singleton
-    attr_accessor :inGame, :entities, :lastEntity, :currentLine, :currentLineNo
+    attr_accessor :inGame, :entities, :lastEntity, :currentLine, :currentLineNo, :lastGame
 
     def initialize
+        @entities = nil
         reset
     end
 
     def reset(inGame=false)
         @inGame = inGame
+        @lastGame = @entities
         @entities = {}
         @lastEntity = nil
         @currentLine = ""
@@ -74,6 +76,14 @@ def ParseGameState(type, tags)
             entity  = $1
             key     = $2
             value   = $3
+
+            if entity == "GameEntity" and key == "STATE" and value == "COMPLETE"
+                State.instance.setEntityTag "1", key, value
+                State.instance.inGame = false
+                State.instance.reset
+                return
+            end
+
             case entity
             when /^\d+$/
                 State.instance.setEntityTag entity, key, value
@@ -294,9 +304,9 @@ end
 
 socket = TCPServer.new 8080
 
-def FormResponse data, code=200
-    data = "{\"error\":\"Not in-game yet\"}" unless State.instance.inGame
-    if data.empty? or data == "{}"
+def FormResponse data, code=200, force=false
+    data = "{\"error\":\"Not in-game yet\"}" if not State.instance.inGame and not force
+    if data.nil? or data.empty? or data == "{}"
         data = "{\"error\": \"Nothing found\"}"
         code = 404
     end
@@ -321,6 +331,8 @@ loop do
                         FormResponse State.instance.players.select { |k, v| v["PlayerID"] == $1 }.to_json
                     when /^\/gamestate\/?$/
                         FormResponse State.instance.entities["1"].to_json
+                    when /^\/previous\/?$/
+                        FormResponse State.instance.lastGame.to_json, code=200, force=true
                     else
                         FormResponse "{\"error\":\"Invalid API request\"}", code=404 
                     end
