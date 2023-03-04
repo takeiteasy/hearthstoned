@@ -199,8 +199,7 @@ end
 def Parse(line)
     if line =~ /^D \d{2}:\d{2}:\d{2}\.\d{7} (\S+)\.(\S+)\(\)\s-\s+(.*)$/
         case $1
-        when "GameState"
-        when "PowerTaskList"
+        when "GameState", "PowerTaskList"
             ParseGameState $2, $3
         when "PowerProcessor"
             ParsePowerTaskList $2, $3
