@@ -31,8 +31,8 @@ class State
     end
 
     def addEntity(id)
-        return if hasEntity? id 
         @lastEntity = id
+        return if hasEntity? id 
         @entities[id] = {}
     end
 
@@ -41,7 +41,6 @@ class State
     end
 
     def setEntityTag(id, key, value)
-        return unless hasEntity? id
         @entities[id][key] = value
     end
 
@@ -85,6 +84,7 @@ def ParseGameState(type, tags)
 
             case entity
             when /^\d+$/
+                State.instance.addEntity entity
                 State.instance.setEntityTag entity, key, value
             when /^\[/
                 if entity =~ /^\[entityName=(.*) id=(\d+) zone=(\S+) zonePos=(\d+) cardId=(\S+)? player=(\d+)\]$/
@@ -94,15 +94,9 @@ def ParseGameState(type, tags)
                     zonePos    = $4
                     cardId     = $5
                     player     = $6
-                    if entityName =~ /^UNKNOWN ENTITY \[cardType=(\S+)\]$/
-                        entityName = "UNKNOWN ENTITY"
-                        State.instance.setEntityTag id, "cardType", $1
-                    end
-                    State.instance.setEntityTag id, "entityName", entityName
-                    State.instance.setEntityTag id, "ZONE", zone
-                    State.instance.setEntityTag id, "ZONE_POSITION", zonePos
-                    State.instance.setEntityTag id, "CardID", cardId unless cardId.nil?
-                    State.instance.setEntityTag id, "player", player
+
+                    State.instance.addEntity id
+                    State.instance.setEntityTag id, key, value
                 else
                     Error "Unhandled TAG_CHANGE format"
                 end
@@ -119,14 +113,16 @@ def ParseGameState(type, tags)
         when /^(SHOW_ENTITY) - Updating Entity=(.*) (\S+)=(\S+)$/,
              /^(HIDE_ENTITY) - Entity=(.*) tag=(\S+) value=(\S+)$/,
              /^(CACHED_TAG_FOR_DORMANT_CHANGE) Entity=(.*) tag=(\S+) value=(\S+)$/,
-             /^(CHANGE_ENTITY) - Updating Entity=(\S+) (\S+)=(\S+)$/
+             /^(CHANGE_ENTITY) - Updating Entity=(\S+) (\S+)=(\S+)$/,
+             /^(FULL_ENTITY) - Updating (.*) (\S+)=(\S*)$/
             subtype = $1
             entity  = $2
             tag     = $3
             value   = $4
             case $2
             when /^(\d+)$/
-                State.instance.setEntityTag entity, tag, value
+                State.instance.addEntity entity
+                State.instance.setEntityTag entity, tag, value unless value.nil?
             when /^\[entityName=(.+) id=(\d+) zone=(\S+) zonePos=(\S+) cardId=(\S+)? player=(\d+)\]$/
                 entityName = $1
                 id         = $2
@@ -134,16 +130,9 @@ def ParseGameState(type, tags)
                 zonePos    = $4
                 cardId     = $5
                 player     = $6
-                if entityName =~ /^(.+)\[cardType=(\S+)\]$/
-                    entityName = $1.rstrip
-                    State.instance.setEntityTag id, "cardType", $2
-                end
-                State.instance.setEntityTag id, "entityName", entityName
-                State.instance.setEntityTag id, "ZONE", zone
-                State.instance.setEntityTag id, "ZONE_POSITION", zonePos
-                State.instance.setEntityTag id, "CardID", cardId unless cardId.nil?
-                State.instance.setEntityTag id, "player", player
-                State.instance.setEntityTag id, tag, value
+
+                State.instance.addEntity id
+                State.instance.setEntityTag id, tag, value unless value.nil?
             else
                 Error "Unhandled #{subtype.upcase} format"
             end
@@ -178,6 +167,8 @@ def ParseGameState(type, tags)
     when "SendChoices"
     when "SendOption"
     when "DebugPrintOptions"
+    when "DebugDump"
+    when "DebugPrintPower"
     else
         Error "Unhandled GameState"
     end
@@ -195,15 +186,6 @@ def ParsePowerTaskList(type, tags)
     end
 end
 
-def ParsePowerProcessor(type, tags)
-    case type
-    when "DebugDump"
-    when "DebugPrintPower"
-    else
-        Error "Unhandled PowerProcessor: #{type}"
-    end
-end
-
 def ParseChoiceCardMgr(type, tags)
     case type
     when "WaitThenShowChoices"
@@ -218,9 +200,8 @@ def Parse(line)
     if line =~ /^D \d{2}:\d{2}:\d{2}\.\d{7} (\S+)\.(\S+)\(\)\s-\s+(.*)$/
         case $1
         when "GameState"
-            ParseGameState $2, $3
         when "PowerTaskList"
-            ParsePowerProcessor $2, $3
+            ParseGameState $2, $3
         when "PowerProcessor"
             ParsePowerTaskList $2, $3
         when "ChoiceCardMgr"
@@ -248,7 +229,7 @@ def Watch(f)
             yield l
         end
     end
-    
+
     f.close
 end
 
@@ -264,6 +245,7 @@ end
 
 # Dir.chdir "/"
 
+Thread.abort_on_exception = true
 
 Thread.new do
     Watch File.open("/Applications/Hearthstone/Logs/Power.log", "r") do |line|
@@ -298,6 +280,7 @@ loop do
                 when "GET"
                     case path.downcase
                     when /^\/$/, /^\/entities\/?$/
+                        p State.instance.entities["20"]
                         FormResponse State.instance.entities.to_json
                     when /^\/entity\/(\d+)?\/?$/
                         FormResponse State.instance.entities.select { |k, v| k == $1 }.to_json
@@ -305,7 +288,7 @@ loop do
                         FormResponse State.instance.players.to_json
                     when /^\/player\/(\d+)\/?$/
                         FormResponse State.instance.players.select { |k, v| v["PlayerID"] == $1 }.to_json
-                    when /^\/gamestate\/?$/
+                    when /^\/state\/?$/
                         FormResponse State.instance.entities["1"].to_json
                     when /^\/previous\/?$/
                         FormResponse State.instance.lastGame.to_json, code=200, force=true
