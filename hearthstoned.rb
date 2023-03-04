@@ -132,14 +132,38 @@ def ParseGameState(type, tags)
             else
                 Error "Unhandled SHOW_ENTITY format"
             end
-        when /^HIDE_ENTITY - Entity=(.*) tag=(\S+) value=(\S+)$/
-            # TODO
-        when /^CHANGE_ENTITY - Updating Entity=(\S+) CardID=(\S+)$/
-            # TODO
+        when /^(HIDE_ENTITY) - Entity=(.*) tag=(\S+) value=(\S+)$/,
+             /^(CACHED_TAG_FOR_DORMANT_CHANGE) Entity=(.*) tag=(\S+) value=(\S+)$/,
+             /^(CHANGE_ENTITY) - Updating Entity=(\S+) (\S+)=(\S+)$/
+            subtype = $1
+            entity  = $2
+            tag     = $3
+            value   = $4
+            case $2
+            when /^(\d+)$/
+                State.instance.setEntityTag entity, tag, value
+            when /^\[entityName=(.+) id=(\d+) zone=(\S+) zonePos=(\S+) cardId=(\S+)? player=(\d+)\]$/
+                entityName = $1
+                id         = $2
+                zone       = $3
+                zonePos    = $4
+                cardId     = $5
+                player     = $6
+                if entityName =~ /^(.+)\[cardType=(\S+)\]$/
+                    entityName = $1.rstrip
+                    State.instance.setEntityTag id, "cardType", $2
+                end
+                State.instance.setEntityTag id, "entityName", entityName
+                State.instance.setEntityTag id, "ZONE", zone
+                State.instance.setEntityTag id, "ZONE_POSITION", zonePos
+                State.instance.setEntityTag id, "CardID", cardId unless cardId.nil?
+                State.instance.setEntityTag id, "player", player
+                State.instance.setEntityTag id, tag, value
+            else
+                Error "Unhandled #{subtype.upcase} format"
+            end
         when /^BLOCK_START/
         when "BLOCK_END"
-        when /^CACHED_TAG_FOR_DORMANT_CHANGE Entity=(.*) tag=(\S+) value=(\S+)$/
-            # TODO
         when /^META_DATA - Meta=(\S+) Data=(\d+) InfoCount=(\d+)$/
         when /^Info\[(\d+)\] = (.*)$/
         when /^Source = (.*)$/
@@ -225,7 +249,10 @@ def Parse(line)
 end
 
 def Watch(f)
-    f.seek 0, IO::SEEK_END
+    f.readlines.each do |line|
+        yield line
+    end
+
     loop do
         line = f.read
         if line.nil? or line.empty?
@@ -236,6 +263,7 @@ def Watch(f)
             yield l
         end
     end
+    f.close
 end
 
 # $PROGRAM_NAME = "hearthstoned"
@@ -268,7 +296,7 @@ socket = TCPServer.new 8080
 
 def FormResponse data, code=200
     data = "{\"error\":\"Not in-game yet\"}" unless State.instance.inGame
-    if data == "{}"
+    if data.empty? or data == "{}"
         data = "{\"error\": \"Nothing found\"}"
         code = 404
     end
@@ -283,18 +311,16 @@ loop do
     client.puts case method 
                 when "GET"
                     case path.downcase
-                    when /^\/$/
+                    when /^\/$/, /^\/entities\/?$/
                         FormResponse State.instance.entities.to_json
-                    when /^\/player\/?$/
+                    when /^\/entity\/(\d+)?\/?$/
+                        FormResponse State.instance.entities.select { |k, v| k == $1 }.to_json
+                    when /^\/players\/?$/
                         FormResponse State.instance.players.to_json
                     when /^\/player\/(\d+)\/?$/
                         FormResponse State.instance.players.select { |k, v| v["PlayerID"] == $1 }.to_json
                     when /^\/gamestate\/?$/
                         FormResponse State.instance.entities["1"].to_json
-                    when /^\/entity\/?$/
-                        FormResponse State.instance.entities.to_json
-                    when /^\/entity\/(\d+)?\/?$/
-                        FormResponse State.instance.entities.select { |k, v| k == $1 }.to_json
                     else
                         FormResponse "{\"error\":\"Invalid API request\"}", code=404 
                     end
