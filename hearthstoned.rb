@@ -117,32 +117,8 @@ def ParseGameState(type, tags)
                     end
                 end
             end
-        when /^SHOW_ENTITY - Updating Entity=(.*) CardID=(\S+)$/
-            entity = $1
-            cardid = $2
-            case entity
-            when /^\d+$/
-                State.instance.setEntityTag entity, "CardID", cardid
-            when /^\[entityName=(.+) id=(\d+) zone=(\S+) zonePos=(\d+) cardId=(\S+)? player=(\d+)\]$/
-                entityName = $1
-                id         = $2
-                zone       = $3
-                zonePos    = $4
-                cardId     = $5
-                player     = $6
-                if entityName =~ /^(.+)\[cardType=(\S+)\]$/
-                    entityName = $1.rstrip
-                    State.instance.setEntityTag id, "cardType", $2
-                end
-                State.instance.setEntityTag id, "entityName", entityName
-                State.instance.setEntityTag id, "ZONE", zone
-                State.instance.setEntityTag id, "ZONE_POSITION", zonePos
-                State.instance.setEntityTag id, "CardID", cardId unless cardId.nil?
-                State.instance.setEntityTag id, "player", player
-            else
-                Error "Unhandled SHOW_ENTITY format"
-            end
-        when /^(HIDE_ENTITY) - Entity=(.*) tag=(\S+) value=(\S+)$/,
+        when /^SHOW_ENTITY - Updating Entity=(.*) (\S+)=(\S+)$/,
+             /^(HIDE_ENTITY) - Entity=(.*) tag=(\S+) value=(\S+)$/,
              /^(CACHED_TAG_FOR_DORMANT_CHANGE) Entity=(.*) tag=(\S+) value=(\S+)$/,
              /^(CHANGE_ENTITY) - Updating Entity=(\S+) (\S+)=(\S+)$/
             subtype = $1
@@ -302,8 +278,6 @@ Thread.new do
     end
 end
 
-socket = TCPServer.new 8080
-
 def FormResponse data, code=200, force=false
     data = "{\"error\":\"Not in-game yet\"}" if not State.instance.inGame and not force
     if data.nil? or data.empty? or data == "{}"
@@ -312,6 +286,8 @@ def FormResponse data, code=200, force=false
     end
     "HTTP/1.1 #{code}\r\nContent-Type: application/json\r\nContent-Length: #{data.length}\r\n\r\n#{data}"
 end
+
+socket = TCPServer.new 8080
 
 loop do
     client = socket.accept
