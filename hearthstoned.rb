@@ -79,7 +79,6 @@ def ParseGameState(type, tags)
 
             if entity == "GameEntity" and key == "STATE" and value == "COMPLETE"
                 State.instance.setEntityTag "1", key, value
-                State.instance.inGame = false
                 State.instance.reset
                 return
             end
@@ -117,7 +116,7 @@ def ParseGameState(type, tags)
                     end
                 end
             end
-        when /^SHOW_ENTITY - Updating Entity=(.*) (\S+)=(\S+)$/,
+        when /^(SHOW_ENTITY) - Updating Entity=(.*) (\S+)=(\S+)$/,
              /^(HIDE_ENTITY) - Entity=(.*) tag=(\S+) value=(\S+)$/,
              /^(CACHED_TAG_FOR_DORMANT_CHANGE) Entity=(.*) tag=(\S+) value=(\S+)$/,
              /^(CHANGE_ENTITY) - Updating Entity=(\S+) (\S+)=(\S+)$/
@@ -249,6 +248,7 @@ def Watch(f)
             yield l
         end
     end
+    
     f.close
 end
 
@@ -279,7 +279,7 @@ Thread.new do
 end
 
 def FormResponse data, code=200, force=false
-    data = "{\"error\":\"Not in-game yet\"}" if not State.instance.inGame and not force
+    data = "{\"error\":\"Not in-game yet\"}" if not State.instance.inGame
     if data.nil? or data.empty? or data == "{}"
         data = "{\"error\": \"Nothing found\"}"
         code = 404
